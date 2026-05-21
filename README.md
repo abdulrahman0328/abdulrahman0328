@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clickable typing animation → links to portfolio -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0F4C81&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdulrahman+%F0%9F%91%8B+%E2%86%92+Click+to+visit+my+portfolio!;مرحباً%2C+أنا+عبدالرحمن+%F0%9F%91%8B;Accounting+%26+Data+Analysis+Specialist;Microsoft+Excel+%7C+Power+BI+%7C+Financial+Modeling;Excel+VBA+%7C+Power+Query+%7C+DAX)](https://abdodatanerd.figma.site/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0F4C81&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdulrahman+%F0%9F%91%8B+%E2%86%92;مرحباً%2C+أنا+عبدالرحمن+%F0%9F%91%8B;Accounting+%26+Data+Analysis+Specialist;Excel+%7C+Power+BI+%7C+Financial+Modeling;Excel+VBA+%7C+Power+Query+%7C+DAX)](https://abdodatanerd.figma.site/)
 
 <br/>
 
