@@ -1,24 +1,23 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0F4C81&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdulrahman+%F0%9F%91%8B;مرحباً%2C+أنا+عبدالرحمن+%F0%9F%91%8B;Accounting+%26+Data+Analysis;Excel+%7C+Power+BI+%7C+Financial+Modeling)](https://git.io/typing-svg)
+<!-- Clickable typing animation → links to portfolio -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0F4C81&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdulrahman+%F0%9F%91%8B+%E2%86%92+Click+to+visit+my+portfolio!;مرحباً%2C+أنا+عبدالرحمن+%F0%9F%91%8B;Accounting+%26+Data+Analysis+Specialist;Microsoft+Excel+%7C+Power+BI+%7C+Financial+Modeling;Excel+VBA+%7C+Power+Query+%7C+DAX)](https://abdodatanerd.figma.site/)
 
 <br/>
 
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0F4C81&style=flat-square&label=Profile+Views)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F4C81?style=flat-square&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0F4C81?style=flat-square)](https://abdodatanerd.figma.site/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
 
 </div>
 
 ---
 
-## 👨‍💼 About Me &nbsp;|&nbsp;
+## 👨‍💼 About Me &nbsp;|&nbsp; عن نفسي
 
 ```yaml
 Name        : Abdulrahman Muhammad Ahmed Ibrahim  |  عبدالرحمن محمد أحمد إبراهيم
@@ -33,30 +32,34 @@ Status      : 🟢 Open to Work — Freelance & Full-time Opportunities
 > 🎯 **Recent graduate** passionate about transforming raw financial data into clear, actionable insights.
 > Combining accounting fundamentals with modern data tools to deliver measurable business value.
 
+> 🎯 خريج حديث شغوف بتحويل البيانات المالية الخام إلى رؤى واضحة وقابلة للتنفيذ،
+> أجمع بين أسس المحاسبة وأدوات البيانات الحديثة لتقديم قيمة أعمال قابلة للقياس.
+
 ---
 
 ## 🛠️ Technical Skills &nbsp;|&nbsp; المهارات التقنية
 
 ### 📊 Data & Analytics
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Proficient-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-Proficient-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-Proficient-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Expert-1a6bbf?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 💻 Programming & Automation
-![VBA](https://img.shields.io/badge/Excel_VBA-Proficient-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-Proficient-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Familiar-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📋 Accounting & Finance
-![IFRS](https://img.shields.io/badge/IFRS-In_Progress-E63946?style=for-the-badge&logo=bookstack&logoColor=white)
-![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-Proficient-0d3d66?style=for-the-badge&logo=chartmogul&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_ERP-Familiar-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-Proficient-0d3d66?style=for-the-badge&logo=chartmogul&logoColor=white)
+![IFRS](https://img.shields.io/badge/IFRS-In%20Progress-E63946?style=for-the-badge&logo=bookstack&logoColor=white)
+![Odoo ERP](https://img.shields.io/badge/Odoo%20ERP-Familiar-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ### 🖥️ Office Suite
-![Word](https://img.shields.io/badge/MS_Word-Expert-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![MS Word](https://img.shields.io/badge/MS%20Word-Expert-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-Expert-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Access](https://img.shields.io/badge/MS_Access-Proficient-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS%20Access-Proficient-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
 ---
 
@@ -115,24 +118,9 @@ Status      : 🟢 Open to Work — Freelance & Full-time Opportunities
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman_Muhammad-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdodatanerd.figma.site-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdodatanerd.figma.site-0F4C81?style=for-the-badge)](https://abdodatanerd.figma.site/)
 [![Gmail](https://img.shields.io/badge/Gmail-abdulrahmanmuhammad0328-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B201140474679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
-
-</div>
-
----
-
-## 📊 GitHub Stats &nbsp;|&nbsp; إحصائيات GitHub
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual username in all 3 lines below -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=0F4C81&icon_color=0F4C81&border_color=e5e7eb&bg_color=ffffff&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&title_color=0F4C81&border_color=e5e7eb&bg_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&ring=0F4C81&fire=0F4C81&currStreakLabel=0F4C81&border=e5e7eb)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201140474679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
 
 </div>
 
@@ -141,6 +129,8 @@ Status      : 🟢 Open to Work — Freelance & Full-time Opportunities
 <div align="center">
 
 *"Data is the new language of business — and I speak it fluently."*
+
+**البيانات هي لغة الأعمال الجديدة — وأنا أتحدثها بطلاقة.**
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer)
 
