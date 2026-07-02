@@ -1,6 +1,4 @@
 <br/>
-<img width="1024" height="1024" alt="Gemini_Generated_Image_lfegoflfegoflfeg" src="https://github.com/user-attachments/assets/7eaa161b-214d-475c-9713-028acfc9f131" />
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="58%" valign="middle">
@@ -25,12 +23,11 @@
 <a href="https://abdodatanerd.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
 <a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0F4C81?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
-<a href="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logo=readdotcv&logoColor=0B1220" /></a>
 
 </td>
 <td width="42%" align="right" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/018ab19c-315e-4534-b30b-02353e88b9e4" width="330" style="border-radius:16px;" alt="Abdulrahman Muhammad — Data Analyst"/>
+<img src="https://github.com/user-attachments/assets/7eaa161b-214d-475c-9713-028acfc9f131" width="310" style="border-radius:16px; border: 1px solid #0F4C81;" alt="Abdulrahman Muhammad — Data Analyst"/>
 
 </td>
 </tr>
