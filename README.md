@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/banner-strip.png" width="100%" alt=""/>
+<img width="704" height="1043" alt="Gemini_Generated_Image_cltkxxcltkxxcltk" src="https://github.com/user-attachments/assets/018ab19c-315e-4534-b30b-02353e88b9e4" />
+
 
 </div>
 
