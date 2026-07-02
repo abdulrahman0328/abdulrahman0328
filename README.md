@@ -1,7 +1,7 @@
 <br/>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 <sub>👋 As-salamu Alaikum</sub>
 
@@ -25,9 +25,9 @@
 <a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
 
 </td>
-<td width="42%" align="right" valign="middle">
+<td width="40%" align="right" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/7eaa161b-214d-475c-9713-028acfc9f131" width="310" style="border-radius:16px; border: 1px solid #0F4C81;" alt="Abdulrahman Muhammad — Data Analyst"/>
+<img src="https://github.com/user-attachments/assets/7eaa161b-214d-475c-9713-028acfc9f131" width="285" style="border-radius:16px; border: 2px solid #0F4C81; display: block;" alt="Abdulrahman Muhammad — Data Analyst"/>
 
 </td>
 </tr>
