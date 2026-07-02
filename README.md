@@ -1,4 +1,5 @@
 <br/>
+<img width="1024" height="1024" alt="Gemini_Generated_Image_lfegoflfegoflfeg" src="https://github.com/user-attachments/assets/7eaa161b-214d-475c-9713-028acfc9f131" />
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
@@ -146,8 +147,6 @@ I pair that business fluency with technical execution in `Excel` · `SQL` · `Po
 </table>
 
 <br/>
-
-**The philosophy, visually:**
 
 ```mermaid
 flowchart LR
