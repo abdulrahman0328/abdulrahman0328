@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/banner-strip.png" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/banner-strip.png" width="100%" alt=""/>
 
 </div>
 
@@ -9,7 +9,7 @@
 <!-- ============================= HERO ============================= -->
 <table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="58%" valign="middle">
 
 <sub>👋 As-salamu Alaikum</sub>
 
@@ -31,12 +31,12 @@
 <a href="https://abdodatanerd.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
 <a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0F4C81?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
-<a href="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logo=readdotcv&logoColor=0B1220" /></a>
+<a href="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logo=readdotcv&logoColor=0B1220" /></a>
 
 </td>
-<td width="38%" align="right">
+<td width="42%" align="right">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/profile.png" width="280" style="border-radius:16px;" alt="Abdulrahman Muhammad"/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/hero-visual.png" width="330" style="border-radius:16px;" alt="Abdulrahman Muhammad — Data Analyst"/>
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ University Rank
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-salary-dashboard.png" width="100%" style="border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/thumb-salary-dashboard.png" width="100%" style="border-radius:10px;"/>
 
 ### 📊 Data Science Salary Dashboard
 
@@ -238,7 +238,7 @@ University Rank
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-jobmarket-powerbi.png" width="100%" style="border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/thumb-jobmarket-powerbi.png" width="100%" style="border-radius:10px;"/>
 
 ### 📈 Data Science Job Market Analysis
 
@@ -255,7 +255,7 @@ University Rank
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-bm-sales.png" width="100%" style="border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/thumb-bm-sales.png" width="100%" style="border-radius:10px;"/>
 
 ### 🏢 BM Company Sales Dashboard
 
@@ -270,7 +270,7 @@ University Rank
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-vba-automation.png" width="100%" style="border-radius:10px;"/>
+<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/thumb-vba-automation.png" width="100%" style="border-radius:10px;"/>
 
 ### ⚡ Social Reports Automation
 
@@ -280,14 +280,14 @@ University Rank
 
 `Excel VBA` `Macros`
 
-[**Portfolio →**](https://mostaql.com/u/Abdulrahman677/portfolio)
+[**Portfolio →**](https://mostaql.com/u/abdulrahman0328/portfolio)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<sub>More projects on <a href="https://mostaql.com/u/Abdulrahman677/portfolio">Mostaql →</a></sub>
+<sub>More projects on <a href="https://mostaql.com/u/abdulrahman0328/portfolio">Mostaql →</a></sub>
 </div>
 
 ---
@@ -422,20 +422,20 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman677&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=2563EB&text_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman677&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrahman0328&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=2563EB&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman0328&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Abdulrahman677&theme=dark&hide_border=true&background=0B1220&stroke=38BDF8&ring=2563EB&fire=FACC15&currStreakLabel=38BDF8"/>
+<img src="https://streak-stats.demolab.com?user=abdulrahman0328&theme=dark&hide_border=true&background=0B1220&stroke=38BDF8&ring=2563EB&fire=FACC15&currStreakLabel=38BDF8"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman677&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdulrahman0328&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman677&theme=react-dark&hide_border=true&bg_color=0B1220&color=38BDF8&line=2563EB&point=FACC15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman0328&theme=react-dark&hide_border=true&bg_color=0B1220&color=38BDF8&line=2563EB&point=FACC15"/>
 
 </div>
 
@@ -454,7 +454,7 @@ flowchart LR
 <a href="https://abdodatanerd.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
 <a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0F4C81?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
 <a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
-<a href="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logoColor=0B1220" /></a>
+<a href="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logoColor=0B1220" /></a>
 
 </div>
 
