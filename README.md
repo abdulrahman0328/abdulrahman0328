@@ -1,14 +1,6 @@
-<div align="center">
-
-<img width="704" height="1043" alt="Gemini_Generated_Image_cltkxxcltkxxcltk" src="https://github.com/user-attachments/assets/018ab19c-315e-4534-b30b-02353e88b9e4" />
-
-
-</div>
-
 <br/>
 
-<!-- ============================= HERO ============================= -->
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="58%" valign="middle">
 
@@ -35,9 +27,9 @@
 <a href="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logo=readdotcv&logoColor=0B1220" /></a>
 
 </td>
-<td width="42%" align="right">
+<td width="42%" align="right" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abdulrahman0328/abdulrahman0328/main/assets/hero-visual.png" width="330" style="border-radius:16px;" alt="Abdulrahman Muhammad — Data Analyst"/>
+<img src="https://github.com/user-attachments/assets/018ab19c-315e-4534-b30b-02353e88b9e4" width="330" style="border-radius:16px;" alt="Abdulrahman Muhammad — Data Analyst"/>
 
 </td>
 </tr>
