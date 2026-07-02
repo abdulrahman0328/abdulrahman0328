@@ -309,4 +309,3 @@ This profile and its associated project documentation are shared under the **MIT
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
 
 </div>
-```
