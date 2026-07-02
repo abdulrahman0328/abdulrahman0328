@@ -1,311 +1,469 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/banner.png" width="100%" alt="Abdulrahman Muhammad — Data Analyst Banner"/>
-
-# 📊 ABDULRAHMAN MUHAMMAD
-
-### Turning Raw Data Into Smart, Actionable Business Decisions
-
-**Data Analyst** specializing in **Excel • Power BI • SQL • DAX • Power Query** — with an Accounting background that lets me speak both the language of data *and* the language of business.
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman677&label=Profile%20Views&style=for-the-badge&color=0F4C81)](https://github.com/Abdulrahman677)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdodatanerd.figma.site)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
-[![Mostaql](https://img.shields.io/badge/Mostaql-00A98F?style=for-the-badge)](https://mostaql.com/u/Abdulrahman677)
-
-![GitHub followers](https://img.shields.io/github/followers/Abdulrahman677?style=for-the-badge&color=0F4C81&logo=github)
-![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)
-![Work Type](https://img.shields.io/badge/Work%20Type-Full--time%20%7C%20Remote%20%7C%20Freelance-blue?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/banner-strip.png" width="100%" alt=""/>
 
 </div>
 
----
-
-## 🖼️ Profile Preview
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/preview.png" width="850" alt="Abdulrahman Muhammad Profile Preview"/>
 <br/>
-<sub><b>A snapshot of my analytics profile — skills, projects, and impact at a glance</b></sub>
+
+<!-- ============================= HERO ============================= -->
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
+
+<sub>👋 As-salamu Alaikum</sub>
+
+# Abdulrahman Muhammad
+
+### `DATA ANALYST`
+
+**Business-minded Data Analyst** — I read the business problem first, then let the data answer it.
+
+> *From Raw Data to Smart Decisions.*
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=520&lines=Business+Intelligence+%7C+Excel+%7C+Power+BI;Financial+Analytics+%7C+SQL+%7C+DAX;Turning+32%2C000%2B+Rows+Into+Decisions)](https://abdodatanerd.figma.site)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar"><img src="https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://abdodatanerd.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0F4C81?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
+<a href="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logo=readdotcv&logoColor=0B1220" /></a>
+
+</td>
+<td width="38%" align="right">
+
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/profile.png" width="280" style="border-radius:16px;" alt="Abdulrahman Muhammad"/>
+
 </td>
 </tr>
+</table>
+
+<br/>
+
+<!-- ============================= NAVBAR ============================= -->
+<div align="center">
+
+<a href="#about"><img src="https://img.shields.io/badge/About-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+<a href="#education"><img src="https://img.shields.io/badge/Education-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0B1220?style=flat-square&logoColor=38BDF8"/></a>
+
+</div>
+
+<br/>
+
+<!-- ============================= PROFILE CARD ============================= -->
+<div align="center">
+<table>
+<tr><td>
+
+<div align="center">
+
+**🪪 PROFILE**
+
+| | |
+|---|---|
+| 📍 **Country** | Egypt 🇪🇬 |
+| 💼 **Role** | Data Analyst |
+| 🟢 **Availability** | Open to Work |
+| 🤝 **Engagement** | Full-time · Remote · Freelance |
+| ⏱ **Response Time** | Usually within 24h |
+| 🌍 **Domains** | Banking · Finance · Retail · BI · ERP |
+
+</div>
+
+</td></tr>
 </table>
 </div>
 
 ---
 
-## 👋 About Me
+<a id="about"></a>
+## 01 · About
 
-I'm **Abdulrahman Muhammad**, a Data Analyst who transforms messy, raw business data into dashboards, reports, and insights that actually drive decisions.
+I'm not a technical analyst who happens to know Excel. I'm a **Bachelor of Commerce (Accounting) graduate** who happened to fall in love with data — and that order matters.
 
-My **Bachelor of Commerce in Accounting** (Beni-Suef University, English Section) means I don't just build charts — I understand what's *behind* the numbers: financial statements, KPIs, profitability, budgeting, and business processes. That combination lets me bridge the gap between technical teams and business stakeholders far more effectively than a purely technical analyst.
+Accounting is my unfair advantage. Before I build a single pivot table, I already understand:
 
-> 💬 *"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
+`Financial Statements` · `KPIs` · `Profitability` · `Budgeting` · `Business Reporting` · `Decision-Making`
 
-**Analytics Philosophy:**
+I pair that business fluency with technical execution in `Excel` · `SQL` · `Power BI` · `Power Query` · `DAX` · `Python` — so the dashboards I build don't just look good, they answer the question the business is actually asking.
 
+<br/>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**🧠 Business Intelligence**
+<br/><sub>Reports built around decisions, not just data</sub>
+
+</td>
+<td width="25%" align="center">
+
+**💰 Financial Analytics**
+<br/><sub>Accounting-grade accuracy</sub>
+
+</td>
+<td width="25%" align="center">
+
+**📊 Dashboard Design**
+<br/><sub>Interactive, filterable, executive-ready</sub>
+
+</td>
+<td width="25%" align="center">
+
+**⚙️ Excel Automation**
+<br/><sub>VBA-driven, one-click reporting</sub>
+
+</td>
+</tr>
+<tr>
+<td width="25%" align="center">
+
+**📈 Data Visualization**
+<br/><sub>Insight over decoration</sub>
+
+</td>
+<td width="25%" align="center">
+
+**🎯 Decision Support**
+<br/><sub>Turning numbers into next steps</sub>
+
+</td>
+<td width="25%" align="center">
+
+**🏢 Business Analysis**
+<br/><sub>Problem-first, tool-second</sub>
+
+</td>
+<td width="25%" align="center">
+
+**🧹 Data Transformation**
+<br/><sub>Clean data, trusted decisions</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**The philosophy, visually:**
+
+```mermaid
+flowchart LR
+    A[Business Question] --> B[Collect]
+    B --> C[Clean]
+    C --> D[Transform]
+    D --> E[Analyze]
+    E --> F[Visualize]
+    F --> G[Business Insight]
+    G --> H[Decision]
+
+    style A fill:#0B1220,stroke:#38BDF8,color:#38BDF8
+    style H fill:#0F4C81,stroke:#FACC15,color:#FACC15
 ```
-Collect Data → Clean Data → Analyze Data → Visualize Insights → Support Better Decisions
-```
-
-> Good dashboards don't just display numbers. They answer business questions.
 
 ---
 
-## 📌 Snapshot
+<a id="numbers"></a>
+## 02 · Impact in Numbers
 
 <div align="center">
 
-| 🎯 Role | 🌍 Location | 💼 Availability | 🤝 Work Type |
-|:---:|:---:|:---:|:---:|
-| Data Analyst | Egypt 🇪🇬 | Open to Work | Full-time • Remote • Freelance |
+<table>
+<tr>
+<td align="center" width="20%">
 
-| 🎓 1st Rank | 🏆 32K+ Rows Analyzed | 📈 5+ Projects | ⚡ 40% Time Saved |
-|:---:|:---:|:---:|:---:|
+### 10+
+Projects Delivered
+
+</td>
+<td align="center" width="20%">
+
+### 80K+
+Rows Analyzed
+
+</td>
+<td align="center" width="20%">
+
+### 5+
+Dashboards Shipped
+
+</td>
+<td align="center" width="20%">
+
+### 40%
+Time Saved via Automation
+
+</td>
+<td align="center" width="20%">
+
+### 1st
+University Rank
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ✨ Core Competencies
+<a id="projects"></a>
+## 03 · Featured Projects
 
-- 📊 **Data Analysis & Data Visualization** — surfacing the story hidden inside raw datasets
-- 🧮 **Business Intelligence & KPI Design** — building metrics that leadership actually trusts
-- 💰 **Financial Analytics & Reporting** — powered by a real accounting foundation, not guesswork
-- 🧹 **Data Cleaning & Transformation** — turning messy exports into analysis-ready datasets
-- 📈 **Dashboard Development** — interactive, filterable, and built for decision-makers
-- ⚙️ **Excel Automation (VBA & Macros)** — eliminating repetitive manual work
-- 🧠 **Decision Support** — analytics framed around the business question, not just the chart
-- 🔎 **Ad-hoc & Deep-dive Analysis** — flexible investigation of trends, anomalies, and outliers
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 📊 Analytics & BI
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-### 💼 Business & Finance
-
-<p>
-<img src="https://img.shields.io/badge/Accounting-0F4C81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial_Analysis-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Analysis-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial_Modeling-003B73?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IFRS-In_Progress-FACC15?style=for-the-badge"/>
-</p>
-
-### ⚙️ Productivity & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://img.shields.io/badge/Excel_VBA-0F4C81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-</p>
-
-</div>
-
-| Category | Tools |
-|---|---|
-| Spreadsheet & BI | Excel, Power BI, Power Query, Power Pivot, DAX |
-| Query & Data | MySQL, Advanced Formulas (SUMIFS, INDEX/MATCH, MEDIANIFS) |
-| Automation | Excel VBA, Macros |
-| Programming | Python (learning), SQL (advanced, in progress) |
-| Business Systems | Odoo ERP |
-| Version Control | Git, GitHub |
-
----
-
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-salary-dashboard.png" width="100%" style="border-radius:10px;"/>
 
 ### 📊 Data Science Salary Dashboard
-**Excel • Pivot Tables • Power Query • MEDIANIFS**
-Analyzed **32,000+** real-world salary records to uncover trends in the global Data Science job market. Recruiters and job seekers can dynamically compare salaries by title, country, and experience level using interactive filters.
-- **Impact:** 8 KPIs · 3 dynamic filters · fully interactive
-- 🔗 [Live Demo](https://mostaql.com/portfolio/3116866-data-science-salary-dashboard)
+
+**Problem:** Job seekers and recruiters had no fast way to benchmark Data Science salaries across 32,000+ real records.
+**Solution:** Excel dashboard with `MEDIANIFS`, Power Query modeling, and 3 dynamic filters.
+**Impact:** 8 live KPIs · fully interactive · instant salary benchmarking.
+
+`Excel` `Power Query` `Pivot Tables`
+
+[**Live Demo →**](https://mostaql.com/portfolio/3116866-data-science-salary-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-jobmarket-powerbi.png" width="100%" style="border-radius:10px;"/>
 
 ### 📈 Data Science Job Market Analysis
-**Power BI • DAX • Power Query**
-A 5-page interactive Power BI dashboard analyzing thousands of job postings — salary benchmarks, in-demand skills, country comparisons, and hiring trends, built on a star-schema data model with 20+ DAX measures.
-- 🔗 [Live Demo](https://sites.google.com/view/abdu-datanerd/project-page/4)
 
-### 📊 BM Company Sales Dashboard
-**Excel • Dashboards • Reporting**
-Executive dashboard tracking sales performance across **2010–2024** (~50,000 rows / 14 years), giving managers instant visibility into revenue, KPIs, and performance trends via SUMIFS/INDEX/MATCH-driven models.
-- 🔗 [Live Demo](https://sites.google.com/view/abdu-datanerd/project-page/5)
+**Problem:** Thousands of job postings, zero visibility into skill demand or salary trends by country.
+**Solution:** 5-page Power BI dashboard on a star-schema model with 20+ DAX measures.
+**Impact:** Country comparison, skills ranking, and demand trends in one view.
+
+`Power BI` `DAX` `Power Query`
+
+[**Live Demo →**](https://sites.google.com/view/abdu-datanerd/project-page/4)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-bm-sales.png" width="100%" style="border-radius:10px;"/>
+
+### 🏢 BM Company Sales Dashboard
+
+**Problem:** 14 years of sales history (~50,000 rows) with no executive-level visibility.
+**Solution:** Dynamic Excel dashboard using `SUMIFS`, `INDEX/MATCH`, built for management review.
+**Impact:** Instant performance evaluation across 2010–2024.
+
+`Excel` `SUMIFS` `INDEX/MATCH`
+
+[**Live Demo →**](https://sites.google.com/view/abdu-datanerd/project-page/5)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/thumb-vba-automation.png" width="100%" style="border-radius:10px;"/>
 
 ### ⚡ Social Reports Automation
-**Excel VBA • Macros**
-One-click automation solution replacing a fully manual reporting process — cutting reporting time by **40%**, reducing human error, and standardizing report formats across the team.
-- 🔗 [Portfolio](https://mostaql.com/u/Abdulrahman677/portfolio)
 
-### 💰 Net Profit Calculator & Dashboard
-**Excel VBA • Financial Modeling**
-An interactive financial dashboard automating profit calculations — cutting reporting time by 50% and improving accuracy by 40%.
-- 🔗 [Portfolio](https://mostaql.com/u/Abdulrahman677/portfolio)
+**Problem:** Weekly reports were 100% manual — slow and error-prone.
+**Solution:** One-click Excel VBA automation replacing the entire manual process.
+**Impact:** 40% reduction in reporting time, zero manual steps left.
+
+`Excel VBA` `Macros`
+
+[**Portfolio →**](https://mostaql.com/u/Abdulrahman677/portfolio)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>More projects on <a href="https://mostaql.com/u/Abdulrahman677/portfolio">Mostaql →</a></sub>
+</div>
+
+---
+
+<a id="experience"></a>
+## 04 · Career Timeline
+
+```mermaid
+flowchart TD
+    A["🤝 2022 · Enactus Beni-Suef — HR Member"] --> B["🏦 2024 · CIB — Banking Trainee"]
+    B --> C["💻 2025 · Mostaql — Freelance Data Analyst"]
+    C --> D["🟢 Today · Open to Work"]
+
+    style A fill:#0B1220,stroke:#2563EB,color:#ffffff
+    style B fill:#0B1220,stroke:#2563EB,color:#ffffff
+    style C fill:#0B1220,stroke:#38BDF8,color:#ffffff
+    style D fill:#0F4C81,stroke:#FACC15,color:#FACC15
+```
+
+<table width="100%">
+<tr><td>
+
+**💻 Freelance Data Analyst** — Mostaql Platform
+Dashboard development, financial reporting, Excel automation, data cleaning & transformation, direct client communication.
+
+</td></tr>
+<tr><td>
+
+**🏦 Banking Trainee** — Commercial International Bank (CIB) · Aug 2024
+Banking operations, financial reporting, customer data analysis, performance monitoring.
+
+</td></tr>
+<tr><td>
+
+**🤝 HR Member** — Enactus Beni-Suef · Mar 2022 – May 2023
+Team management, HR operations, project coordination, leadership.
+
+</td></tr>
+</table>
+
+---
+
+<a id="skills"></a>
+## 05 · Tech Stack
+
+<table width="100%">
+<tr>
+<td align="center" width="20%"><b>Analytics</b></td>
+<td width="80%">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Programming</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Business</b></td>
+<td>
+<img src="https://img.shields.io/badge/Accounting-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Financial_Analysis-0B1220?style=for-the-badge&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/IFRS_(In_Progress)-0B1220?style=for-the-badge&logoColor=FACC15"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Automation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Excel_VBA-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Macros-0F4C81?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Office & Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+**🎯 Currently Sharpening:** Advanced SQL · Advanced DAX · Power BI Data Modeling · Python for Analytics
+
+---
+
+<a id="education"></a>
+## 06 · Education & Certifications
+
+```mermaid
+flowchart LR
+    E["🎓 Beni-Suef University\nB.Com Accounting (English)\nGraduated June 2025"] --> R["🥇 Ranked 1st\nFinal Year"]
+    R --> P["⭐ 94%\nVery Good with High Honors"]
+
+    style E fill:#0B1220,stroke:#38BDF8,color:#ffffff
+    style R fill:#0F4C81,stroke:#FACC15,color:#FACC15
+    style P fill:#0B1220,stroke:#38BDF8,color:#ffffff
+```
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">🪪 <b>MOS</b><br/><sub>Microsoft Office Specialist</sub><br/>✅ Completed</td>
+<td align="center" width="25%">🪪 <b>ICDL</b><br/><sub>Int'l Computer Driving License</sub><br/>✅ Completed</td>
+<td align="center" width="25%">🪪 <b>CIB Training</b><br/><sub>Banking Program</sub><br/>✅ Completed</td>
+<td align="center" width="25%">🪪 <b>IFRS</b><br/><sub>Financial Reporting Standards</sub><br/>🔄 In Progress</td>
+</tr>
+</table>
+
+---
+
+<a id="why"></a>
+## 07 · Why Work With Me
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><b>🧭</b><br/>Business-First Mindset</td>
+<td width="20%" align="center"><b>📚</b><br/>Real Accounting Advantage</td>
+<td width="20%" align="center"><b>📊</b><br/>Business Intelligence Focus</td>
+<td width="20%" align="center"><b>⚙️</b><br/>Automation-Driven</td>
+<td width="20%" align="center"><b>🗣️</b><br/>Clear Client Communication</td>
+</tr>
+</table>
+
+---
+
+<a id="github"></a>
+## 08 · GitHub Activity
 
 <div align="center">
 
-| 📊 Dashboards | 📂 Projects | 📈 Rows Analyzed | ⚡ Automation |
-|:---:|:---:|:---:|:---:|
-| 5+ | 10+ | 80,000+ | 40% Time Saved |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman677&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=2563EB&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman677&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Abdulrahman677&theme=dark&hide_border=true&background=0B1220&stroke=38BDF8&ring=2563EB&fire=FACC15&currStreakLabel=38BDF8"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman677&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman677&theme=react-dark&hide_border=true&bg_color=0B1220&color=38BDF8&line=2563EB&point=FACC15"/>
+
+</div>
+
+<sub>ℹ️ The animated "snake" contribution graph isn't included by default — it needs a GitHub Actions workflow running on your own repo. Say the word and I'll write that workflow file for you.</sub>
+
+---
+
+<a id="contact"></a>
+## 09 · Let's Build Something Meaningful with Data
+
+<div align="center">
+
+**Have a dataset that needs to become a decision? Let's talk.**
+
+<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar"><img src="https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://abdodatanerd.figma.site"><img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0F4C81?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-0F4C81?style=for-the-badge&logo=whatsapp&logoColor=38BDF8" /></a>
+<a href="https://raw.githubusercontent.com/Abdulrahman677/Abdulrahman677/main/assets/Abdulrahman_Muhammad_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-FACC15?style=for-the-badge&logoColor=0B1220" /></a>
 
 </div>
 
 ---
 
-## 📌 Usage Example — A Sample of My Analytical Approach
-
-Here's a simplified example of the kind of Excel formula logic I build into real dashboards, using `SUMIFS` and `MEDIANIFS` to power dynamic KPI cards:
-
-```excel
-' Dynamic salary median filtered by Job Title, Country, and Year (feeds a dashboard KPI card)
-=MEDIANIFS(Salary_Table[Salary],
-           Salary_Table[Job_Title], Selected_Title,
-           Salary_Table[Country], Selected_Country,
-           Salary_Table[Year], Selected_Year)
-
-' Revenue growth % vs previous year (used in the BM Sales Dashboard)
-=(SUMIFS(Sales[Revenue], Sales[Year], CurrentYear) -
-  SUMIFS(Sales[Revenue], Sales[Year], CurrentYear-1)) /
-  SUMIFS(Sales[Revenue], Sales[Year], CurrentYear-1)
-```
-
-```dax
--- Sample DAX measure from the Power BI Job Market Analysis dashboard
-Avg Salary (USD) =
-AVERAGEX(
-    FILTER(Jobs, Jobs[Currency] = "USD"),
-    Jobs[Salary]
-)
-```
-
-If you'd like to see the full workbooks or `.pbix` files in action, check the live demos linked in the **Featured Projects** section above or reach out via the contact details below.
-
----
-
-## 💼 Professional Experience
-
-**💻 Freelance Data Analyst** — *Mostaql Platform*
-Delivered business-focused Excel and Power BI solutions for clients: dashboard development, financial reporting, Excel automation, data cleaning/transformation, and direct client communication.
-
-**🏦 Banking Trainee** — *Commercial International Bank (CIB), August 2024*
-Banking operations, financial reporting, customer data analysis, performance monitoring, and business process exposure.
-
-**🤝 HR Member** — *Enactus Beni-Suef, March 2022 – May 2023*
-Team management, HR operations, presentations, leadership, and project coordination.
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Commerce — Accounting (English Section)**
-Beni-Suef University · Graduated June 2025
-🥇 Ranked **1st** in the Final Year · Grade: **Very Good with High Honors** · Final Year Percentage: **94%**
-
-| Certification | Status |
-|---|:---:|
-| Microsoft Office Specialist (MOS) | ✅ Completed |
-| ICDL (International Computer Driving License) | ✅ Completed |
-| CIB Banking Training | ✅ Completed |
-| IFRS Certification | 🔄 In Progress |
-
----
-
-## 🗺️ Roadmap
-
-**Completed / In Practice**
-- [x] Build interactive Excel dashboards for real-world datasets (32K+ rows)
-- [x] Deliver Power BI dashboards with star-schema modeling and 20+ DAX measures
-- [x] Automate recurring reports with Excel VBA (40% time savings)
-- [x] Complete MOS and ICDL certifications
-- [x] Freelance delivery track record on Mostaql
-
-**In Progress**
-- [ ] Complete IFRS Certification
-- [ ] Advance SQL skills to a production/enterprise level
-- [ ] Deepen Python for data analytics (pandas, automation scripts)
-- [ ] Master advanced DAX optimization and data modeling patterns
-- [ ] Improve dashboard UX/UI design principles
-
-**Upcoming**
-- [ ] Publish open-source Power BI templates for common business KPIs
-- [ ] Build a public SQL + Python portfolio project (end-to-end ETL pipeline)
-- [ ] Contribute to open datasets / community analytics challenges
-- [ ] Expand into predictive analytics and basic forecasting models
-- [ ] Launch a series of short tutorials on Excel/Power BI best practices
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to discussing:
-
-- 📊 Data Analytics & Business Intelligence projects
-- 💰 Financial Analytics & Reporting engagements
-- 📈 Dashboard Development (Excel or Power BI)
-- ⚙️ Excel Automation & Workflow Optimization
-- 💼 Freelance or Full-time opportunities
-
-**If you'd like to work together:**
-1. Reach out via [Email](mailto:abdulrahmanmuhammad0328@gmail.com) or [WhatsApp](https://wa.me/201140474679) with a short description of your data, goal, and timeline.
-2. I'll review your requirements and propose the right approach (Excel vs. Power BI, automation needs, reporting cadence).
-3. We agree on scope and deliverables, and I get to work turning your raw data into decisions you can act on.
-
-Feedback, suggestions, and collaboration requests on any of my public projects are always welcome — feel free to open an issue or reach out directly.
-
----
-
-## 📄 License
-
-This profile and its associated project documentation are shared under the **MIT License**. Individual client projects referenced above were delivered under separate freelance agreements and their source data/workbooks remain the property of the respective clients.
-
----
-
-## 📞 Contact & Support
-
 <div align="center">
 
-| Channel | Link |
-|---|---|
-| 📧 Email | [abdulrahmanmuhammad0328@gmail.com](mailto:abdulrahmanmuhammad0328@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/abdulrahman-muhammad-2003mar](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar) |
-| 🌐 Portfolio | [abdodatanerd.figma.site](https://abdodatanerd.figma.site) |
-| 💬 WhatsApp | [wa.me/201140474679](https://wa.me/201140474679) |
-| 🧑‍💻 Mostaql (Freelance) | [mostaql.com/u/Abdulrahman677](https://mostaql.com/u/Abdulrahman677) |
+<sub>**Abdulrahman Muhammad** · DATA ANALYST · From Raw Data to Smart Decisions</sub>
 
-</div>
-
----
-
-<div align="center">
-
-## Thank You for Visiting! ⭐
-
-**If you find my work useful, consider starring my repositories.**
-
-### Abdulrahman Muhammad
-### Data Analyst
-### *From Raw Data to Smart Decisions*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=90&section=footer"/>
 
 </div>
