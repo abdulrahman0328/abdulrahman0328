@@ -1,835 +1,135 @@
-<!-- ========================================================= -->
-<!--                  ABDULRAHMAN MUHAMMAD                      -->
-<!--            DATA ANALYST | BUSINESS ANALYTICS              -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0F4C81&text=ABDULRAHMAN%20MUHAMMAD&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20EXCEL%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20SQL&descAlignY=60"/>
+<!-- Animated header banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=200&section=header&text=Abdulrahman%20Muhammad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Financial%20Intelligence%20%C3%97%20Data%20Skills&descAlignY=58&descSize=16&animation=fadeIn)
 
-<br>
+<!-- Typing animation → clickable to portfolio -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0F4C81&center=true&vCenter=true&width=680&lines=Turning+Financial+Data+into+Business+Decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+Power+Query+%7C+SQL;Building+Dashboards+on+50%2C000%2B+Row+Datasets;Accounting+Background+%C3%97+Modern+Data+Tools)](https://abdodatanerd.figma.site/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1100&color=38BDF8&center=true&vCenter=true&width=950&lines=As-salamu+Alaikum+%F0%9F%91%8B;Abdulrahman+Muhammad;Data+Analyst;Excel+%E2%80%A2+Power+BI+%E2%80%A2+SQL;From+Raw+Data+to+Smart+Decisions;Business+Intelligence+%7C+Financial+Analytics)](https://abdodatanerd.figma.site)
+<br/>
 
-<br>
-
-<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://abdodatanerd.figma.site">
-<img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:abdulrahmanmuhammad0328@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201140474679">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Abdulrahman677&label=Profile+Views&style=for-the-badge&color=0F4C81"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F4C81?style=flat-square&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
 
 </div>
 
 ---
 
-# 👋 Welcome
+## 🧠 Who I Am
 
-> ### **From Raw Data to Smart Decisions**
-
-I'm **Abdulrahman Muhammad**, a **Data Analyst** passionate about transforming raw business data into meaningful insights that support strategic decision-making.
-
-With a strong academic background in **Accounting**, I don't just analyze numbers—I understand the business behind them.
-
-My goal is to bridge the gap between **Business Needs** and **Data Solutions** through dashboards, reports, automation, and business intelligence.
-
----
-
-# 🚀 Quick Navigation
-
-<p align="center">
-
-<a href="#about-me">About</a> •
-<a href="#core-competencies">Core Competencies</a> •
-<a href="#tech-stack">Tech Stack</a> •
-<a href="#featured-projects">Projects</a> •
-<a href="#experience">Experience</a> •
-<a href="#education">Education</a> •
-<a href="#contact">Contact</a>
-
-</p>
-
----
-
-# 📌 Recruiter Snapshot
-
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-### 🎯 Role
-
-Data Analyst
-
-</td>
-
-<td width="25%" align="center">
-
-### 🌍 Location
-
-Egypt 🇪🇬
-
-</td>
-
-<td width="25%" align="center">
-
-### 💼 Availability
-
-Open to Work
-
-</td>
-
-<td width="25%" align="center">
-
-### 🤝 Work Type
-
-Full-time • Remote • Freelance
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 Professional Highlights
-
-<div align="center">
-
-| 🎓 | 🏆 | 📈 | ⚡ |
-|:--:|:--:|:--:|:--:|
-| 1st Rank | 32K+ Rows Analyzed | 5+ Projects | 40% Time Saved |
-
-</div>
-
----
-
-<a id="about-me"></a>
-
-# 👨‍💻 About Me
-
-I specialize in **Business Intelligence**, **Financial Analytics**, and **Data Visualization**, helping organizations transform complex datasets into actionable insights.
-
-Unlike many analysts who only understand the technical side, my accounting education provides a strong understanding of:
-
-- Financial Statements
-- KPIs & Performance Measurement
-- Business Processes
-- Profitability Analysis
-- Budgeting
-- Decision Support
-- Business Reporting
-
-This combination allows me to communicate effectively with both technical teams and business stakeholders.
-
----
-
-# 💡 Analytics Philosophy
-
-```
-
-Collect Data
-
-↓
-
-Clean Data
-
-↓
-
-Analyze Data
-
-↓
-
-Visualize Insights
-
-↓
-
-Support Better Decisions
-
-```
-
-> **Good dashboards don't just display numbers. They answer business questions.**
-
----
-
-<a id="core-competencies"></a>
-
-# 🎯 Core Competencies
-
-<table>
-
-<tr>
-
-<td>
-
-✅ Data Analysis
-
-</td>
-
-<td>
-
-✅ Business Intelligence
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Financial Analytics
-
-</td>
-
-<td>
-
-✅ Dashboard Development
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ KPI Design
-
-</td>
-
-<td>
-
-✅ Data Visualization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Data Cleaning
-
-</td>
-
-<td>
-
-✅ Data Transformation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Business Reporting
-
-</td>
-
-<td>
-
-✅ Financial Reporting
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✅ Decision Support
-
-</td>
-
-<td>
-
-✅ Excel Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<a id="tech-stack"></a>
-
-# 🛠 Tech Stack
-
-## 📊 Analytics
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-
-</p>
-
----
-
-## 💼 Business
-
-<p>
-
-<img src="https://img.shields.io/badge/Accounting-0F4C81?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Financial_Analysis-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business_Analysis-1D4ED8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Financial_Modeling-003B73?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/IFRS-In_Progress-FACC15?style=for-the-badge"/>
-
-</p>
-
----
-
-## ⚙ Productivity
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://img.shields.io/badge/Excel_VBA-0F4C81?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-
-</p>
-
----
-
-# 🌍 Business Domains
-
-I enjoy working with data across multiple industries including:
-
-- 💰 Finance
-- 🏦 Banking
-- 📊 Business Intelligence
-- 🛒 Retail
-- 📦 ERP Systems
-- 📈 Sales Analytics
-- 💼 Corporate Reporting
-
----
-
-<!-- ======================= CONTINUE PART 2 ======================= --><!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                         -->
-<!-- ========================================================= -->
-
-<a id="featured-projects"></a>
-
-# 🚀 Featured Projects
-
-> Every project below was built with one goal in mind:
+> I'm a **Data Analyst** with a B.Com. in Accounting — which means I don't just process numbers, I *understand* what they mean for a business.
 >
-> **Transforming raw business data into actionable insights.**
-
----
-
-# 📊 Data Science Salary Dashboard
-
-<div align="center">
-
-### Interactive Excel Dashboard
-
-Excel • Pivot Tables • Power Query • MEDIANIFS
-
-</div>
-
-### 📌 Project Overview
-
-Analyzed over **32,000** real-world salary records to discover trends in the global Data Science job market.
-
-The dashboard enables recruiters, analysts, and job seekers to compare salaries dynamically using multiple interactive filters.
-
-### 🎯 Business Value
-
-✔ Compare salaries across job titles
-
-✔ Discover highest-paying countries
-
-✔ Identify salary trends
-
-✔ Improve hiring decisions
-
-✔ Support career planning
-
-### 📈 Impact
-
-| Metric | Value |
-|---------|------:|
-| Dataset | 32,000+ Rows |
-| KPIs | 8 |
-| Dynamic Filters | 3 |
-| Dashboard Type | Interactive |
-
-### 🛠 Tech Used
-
-Excel
-
-Power Query
-
-Pivot Tables
-
-Advanced Formulas
-
-Conditional Formatting
-
-### 🔗 Live Demo
-
-https://mostaql.com/portfolio/3116866-data-science-salary-dashboard
-
----
-
-# 📈 Data Science Job Market Analysis
-
-<div align="center">
-
-### Power BI Dashboard
-
-Power BI • DAX • Power Query
-
-</div>
-
-### 📌 Project Overview
-
-Built an interactive Power BI dashboard to analyze thousands of job postings in the Data Science industry.
-
-### 🎯 Business Value
-
-✔ Salary Analysis
-
-✔ Skills Analysis
-
-✔ Country Comparison
-
-✔ Demand Analysis
-
-✔ Job Trends
-
-### 📈 Impact
-
-| Metric | Value |
-|---------|------:|
-| Dashboard Pages | 5 |
-| Data Model | Star Schema |
-| DAX Measures | 20+ |
-| Visuals | Interactive |
-
-### 🛠 Tech Used
-
-Power BI
-
-Power Query
-
-DAX
-
-Power Pivot
-
-### 🔗 Live Demo
-
-https://sites.google.com/view/abdu-datanerd/project-page/4
-
----
-
-# 📊 BM Company Sales Dashboard
-
-<div align="center">
-
-### Executive Sales Dashboard
-
-Excel • Dashboards • Reporting
-
-</div>
-
-### 📌 Project Overview
-
-Developed an executive dashboard to monitor sales performance from **2010–2024**.
-
-The solution allows managers to evaluate sales performance instantly.
-
-### 🎯 Business Value
-
-✔ Sales Monitoring
-
-✔ KPI Tracking
-
-✔ Revenue Analysis
-
-✔ Performance Evaluation
-
-✔ Executive Reporting
-
-### 📈 Impact
-
-| Metric | Value |
-|---------|------:|
-| Dataset | ~50,000 Rows |
-| Years Covered | 14 |
-| KPIs | 10 |
-| Dashboard | Dynamic |
-
-### 🛠 Tech Used
-
-Excel
-
-Power Query
-
-Pivot Tables
-
-SUMIFS
-
-INDEX
-
-MATCH
-
-### 🔗 Live Demo
-
-https://sites.google.com/view/abdu-datanerd/project-page/5
-
----
-
-# ⚡ Social Reports Automation
-
-<div align="center">
-
-### Excel VBA Automation
-
-</div>
-
-### 📌 Project Overview
-
-Designed an automation solution that eliminated repetitive manual work by generating reports with a single click.
-
-### 🎯 Business Value
-
-✔ Save Time
-
-✔ Reduce Errors
-
-✔ Improve Productivity
-
-✔ Standardize Reports
-
-### 📈 Impact
-
-| Metric | Value |
-|---------|------:|
-| Time Saved | 40% |
-| Manual Steps | Eliminated |
-| Automation | One Click |
-
-### 🛠 Tech Used
-
-Excel VBA
-
-Macros
-
-Automation
-
-Data Migration
-
-### 🔗 Portfolio
-
-https://mostaql.com/u/Abdulrahman677/portfolio
-
----
-
-# 💰 Net Profit Calculator
-
-<div align="center">
-
-### Financial Dashboard
-
-Excel VBA
-
-</div>
-
-### 📌 Project Overview
-
-Automated profit calculations and reporting through an interactive Excel dashboard.
-
-### 🎯 Business Value
-
-✔ Profit Analysis
-
-✔ Financial Reporting
-
-✔ Error Reduction
-
-✔ Faster Decisions
-
-### 📈 Impact
-
-| Metric | Value |
-|---------|------:|
-| Reporting Time | ↓ 50% |
-| Accuracy | ↑ 40% |
-| Dashboard | Interactive |
-
-### 🛠 Tech Used
-
-Excel VBA
-
-Financial Modeling
-
-Advanced Excel
-
-Automation
-
-### 🔗 Portfolio
-
-https://mostaql.com/u/Abdulrahman677/portfolio
-
----
-
-# 📈 Project Impact
-
-<div align="center">
-
-| 📊 Dashboards | 📂 Projects | 📈 Rows Analyzed | ⚡ Automation |
-|:-------------:|:-----------:|:---------------:|:------------:|
-| 5+ | 10+ | 80,000+ | 40% Time Saved |
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                  EXPERIENCE                               -->
-<!-- ========================================================= -->
-
-<a id="experience"></a>
-
-# 💼 Professional Experience
-
-## 💻 Freelance Data Analyst
-
-### Mostaql Platform
-
-Delivered business-focused Excel and Power BI solutions for clients by building dashboards, automating workflows, and creating insightful reports.
-
-### Key Responsibilities
-
-- Dashboard Development
-- Financial Reporting
-- Excel Automation
-- Business Analysis
-- Client Communication
-- Data Cleaning
-- Data Transformation
-
----
-
-## 🏦 Banking Trainee
-
-Commercial International Bank (CIB)
-
-August 2024
-
-### Responsibilities
-
-- Banking Operations
-- Financial Reporting
-- Customer Data Analysis
-- Performance Monitoring
-- Business Processes
-
----
-
-## 🤝 HR Member
-
-Enactus Beni-Suef
-
-Mar 2022 — May 2023
-
-### Responsibilities
-
-- Team Management
-- HR Operations
-- Presentations
-- Leadership
-- Project Coordination
-
----
-
-<!-- ======================= CONTINUE PART 3 ======================= --><!-- ========================================================= -->
-<!--                     EDUCATION                             -->
-<!-- ========================================================= -->
-
-<a id="education"></a>
-
-# 🎓 Education
-
-## Bachelor of Commerce (Accounting)
-
-**English Section**
-
-**Beni-Suef University**
-
-📅 Graduated: June 2025
-
-🥇 Ranked **1st** in the Final Year
-
-🎓 Grade:
-
-**Very Good with High Honors**
-
-⭐ Final Year Percentage
-
-**94%**
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification | Status |
-|--------------|--------|
-| Microsoft Office Specialist (MOS) | ✅ Completed |
-| ICDL | ✅ Completed |
-| CIB Banking Training | ✅ Completed |
-| IFRS | 🔄 In Progress |
-
-</div>
-
----
-
-# 📚 Current Focus
-
-Every day I invest time in becoming a better Data Analyst.
-
-### Currently Learning
-
-- Advanced SQL
-- Advanced Power BI
-- DAX Optimization
-- Data Modeling
-- Python for Data Analytics
-- Financial Analytics
-- Business Intelligence
-- Dashboard UX
-
----
-
-# 📈 Why Work With Me?
-
-✔ Strong Business Background
-
-✔ Accounting Knowledge
-
-✔ Data-Driven Mindset
-
-✔ Business Intelligence Focus
-
-✔ Excellent Excel Skills
-
-✔ Dashboard Development
-
-✔ Automation Experience
-
-✔ Financial Reporting
-
-✔ Decision Support
-
-✔ Continuous Learner
-
----
-
-# 🧠 Analytics Workflow
-
-```text
-Business Problem
-
-↓
-
-Data Collection
-
-↓
-
-Data Cleaning
-
-↓
-
-Data Transformation
-
-↓
-
-Data Analysis
-
-↓
-
-Dashboard Development
-
-↓
-
-Business Insights
-
-↓
-
-Decision Making
+> My accounting foundation gives me a built-in advantage: I know which metrics matter, how financial statements connect, and what decision-makers actually need to see. Combine that with modern data tools like **Excel, Power BI, Power Query, and SQL**, and the result is analysis that's both technically sound and business-relevant.
+
+```yaml
+Name        : Abdulrahman Muhammad Ahmed Ibrahim
+Role        : Data Analyst  |  Financial Intelligence × Data Skills
+Education   : B.Com. Accounting — Beni-Suef University
+              🏆 1st Rank University-Wide · Final Year · 94%
+Location    : Egypt 🇪🇬
+Languages   : Arabic (Native)  |  English (Very Good)
+Status      : 🟢 Open to Work — Freelance & Full-time
+Portfolio   : abdodatanerd.figma.site
 ```
 
 ---
 
-# 🌍 Industries of Interest
-
-I enjoy solving business problems through data in industries such as:
-
-- Banking
-- Finance
-- Business Intelligence
-- Retail
-- E-Commerce
-- Healthcare
-- Manufacturing
-- ERP Systems
-
----
-
-# 📊 GitHub Analytics
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman677&show_icons=true&theme=transparent&hide_border=true"/>
+### 📊 Data & Analytics
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power%20Query](https://img.shields.io/badge/Power%20Query-Proficient-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pivot%20Tables](https://img.shields.io/badge/Pivot%20Tables-Expert-1a6bbf?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman677&layout=compact&theme=transparent&hide_border=true"/>
+### 💻 Programming & Automation
+![Excel%20VBA](https://img.shields.io/badge/Excel%20VBA-Proficient-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Planned-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📋 Business & Finance Domain
+![Financial%20Modeling](https://img.shields.io/badge/Financial%20Modeling-Proficient-0d3d66?style=for-the-badge&logo=chartmogul&logoColor=white)
+![Business%20Analysis](https://img.shields.io/badge/Business%20Analysis-Proficient-0F4C81?style=for-the-badge&logo=databricks&logoColor=white)
+![IFRS](https://img.shields.io/badge/IFRS-In%20Progress-E63946?style=for-the-badge&logo=bookstack&logoColor=white)
+![Odoo%20ERP](https://img.shields.io/badge/Odoo%20ERP-Familiar-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| # | Project | Tools | Scale | Impact |
+|---|---------|-------|-------|--------|
+| 🥇 | **[Data Science Salary Dashboard](https://mostaql.com/portfolio/3116866-data-science-salary-dashboard)** | Excel · MEDIANIFS · Pivot Tables | 32,600+ rows | 3 dynamic filters · KPI cards · 7 sheets |
+| 🥈 | **[Social Reports Automation](https://mostaql.com/u/Abdulrahman677/portfolio)** | Excel VBA · Dynamic Ranges | — | ↓40% manual time · one-click workflow |
+| 🥉 | **[Net Profit Calculator & Dashboard](https://mostaql.com/u/Abdulrahman677/portfolio)** | VBA · Advanced Formulas | — | ↑40% accuracy · ↓50% reporting time |
+| 📊 | **[Data Science Job Market Analysis](https://sites.google.com/view/abdu-datanerd/project-page/4)** | Power Query · DAX · Power Pivot | 2023 dataset | Skills ↔ salary correlation · top-10 skills |
+| 📈 | **[BM Company Sales Dashboard](https://sites.google.com/view/abdu-datanerd/project-page/5)** | Excel · SUMIFS · MEDIANIFS | ~50,000 rows | 14 years of data · formula-only build |
+
+> 💡 More projects uploading to this repo soon — stay tuned!
+
+---
+
+## 💼 Experience
+
+**💻 Data Analyst & Excel Automation Specialist** *(Freelance)*
+`Mostaql Platform · 2024 – Present`
+- Built automated VBA systems handling data migration, report generation & financial dashboards
+- Delivered dashboards on datasets ranging from 32,600 to 50,000+ rows
+- Reduced client manual processing time by up to 50% across multiple projects
+
+**🏦 Data Literacy Trainee — CIB Bank** *(Aug 2024)*
+- Analyzed banking data to support decision-making
+- Developed skills in data collection, cleaning & trend identification
+
+**🤝 HR Member — Enactus Beni-Suef** *(Mar 2022 – May 2023)*
+- Led HR team in project management, evaluation & development cycles
+
+---
+
+## 🎓 Education & Certifications
+
+```
+🎓  B.Com. Accounting (English Section)
+    Beni-Suef University  ·  Graduated June 2025
+    Grade: Very Good (High Honors)
+    🏆 1st Rank University-Wide — Final Year (94%)
+
+🏅  Microsoft Office Specialist (MOS)
+🏅  International Computer Driving License (ICDL)
+🔄  IFRS Certification — In Progress
+```
+
+---
+
+## 📈 Currently Learning
+
+| Status | Topic | Details |
+|--------|-------|---------|
+| 🔄 Active | **SQL — Data with Baraa** | 30hr course · Completed: SELECT → GROUP BY → DDL → DML |
+| 🔄 Active | **Advanced Power BI** | DAX · Row-Level Security · Data Modeling |
+| 🔄 Active | **IFRS** | International Financial Reporting Standards |
+| 📅 Planned | **Python for Data Analysis** | pandas · matplotlib · financial automation |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman%20Muhammad-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdodatanerd.figma.site-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
+[![Gmail](https://img.shields.io/badge/Gmail-abdulrahmanmuhammad0328-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201140474679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
 
 </div>
 
@@ -837,102 +137,8 @@ I enjoy solving business problems through data in industries such as:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abdulrahman677&theme=transparent&hide_border=true"/>
+*"An accountant who learned to speak data — fluently."*
 
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman677&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman677&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Find Me Around the Web
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://abdodatanerd.figma.site">
-<img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://mostaql.com/u/Abdulrahman677">
-<img src="https://img.shields.io/badge/Mostaql-00A98F?style=for-the-badge"/>
-</a>
-
-<a href="mailto:abdulrahmanmuhammad0328@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201140474679">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"Without data, you're just another person with an opinion."**
-
-**— W. Edwards Deming**
-
-</div>
-
----
-
-<a id="contact"></a>
-
-# 🤝 Let's Build Something Meaningful
-
-I'm always interested in discussing:
-
-- Data Analytics
-- Business Intelligence
-- Financial Analytics
-- Dashboard Development
-- Excel Automation
-- Freelance Opportunities
-- Full-Time Opportunities
-
-Whether you're looking for a Data Analyst, collaborating on a project, or simply exchanging ideas, feel free to connect.
-
----
-
-<div align="center">
-
-# Thank You for Visiting!
-
-### ⭐ If you like my work, don't forget to star my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=120&section=footer"/>
-
-### Abdulrahman Muhammad
-
-### Data Analyst
-
-### From Raw Data to Smart Decisions
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer)
 
 </div>
