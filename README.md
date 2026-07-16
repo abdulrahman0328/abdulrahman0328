@@ -1,285 +1,135 @@
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Poppins,sans-serif;
-}
+<!DOCTYPE html>
+<html lang="en">
 
-body{
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdulrahman Muhammad | Data Analyst</title>
 
-background:#050b18;
-color:white;
+    <link rel="stylesheet" href="css/style.css">
+</head>
 
-}
+<body>
 
-.hero{
+<section class="hero">
 
-width:100%;
-min-height:100vh;
+<div class="left">
 
-display:flex;
-justify-content:space-between;
-align-items:center;
+<div class="welcome">
+👋 As-salamu Alaikum
+</div>
 
-padding:70px;
+<h1>
+<span class="white">ABDULRAHMAN</span><br>
+<span class="blue">MUHAMMAD</span>
+</h1>
 
-background:
+<h2>DATA ANALYST</h2>
 
-radial-gradient(circle at right,#0b3d7c33,transparent 45%),
-#050b18;
+<div class="tagline">
+From <span>Raw Data</span> to <span>Smart Decisions</span>
+</div>
 
-}
+<div class="skills">
 
-.left{
+<div>
+<img src="assets/images/excel.png">
+<span>Excel</span>
+</div>
 
-width:55%;
+<div>
+<img src="assets/images/powerbi.png">
+<span>Power BI</span>
+</div>
 
-}
+<div>
+<img src="assets/images/sql.png">
+<span>SQL</span>
+</div>
 
-.right{
+<div>
+<img src="assets/images/dax.png">
+<span>DAX</span>
+</div>
 
-width:45%;
-position:relative;
-display:flex;
-justify-content:center;
+<div>
+<img src="assets/images/powerquery.png">
+<span>Power Query</span>
+</div>
 
-}
+</div>
 
-.welcome{
+<div class="buttons">
 
-display:inline-block;
+<a href="https://github.com/abdulrahman0328" target="_blank">
+<img src="assets/images/github.png">
+GitHub
+</a>
 
-padding:10px 25px;
+<a href="#">
+<img src="assets/images/linkedin.png">
+LinkedIn
+</a>
 
-border:1px solid #1e3d6b;
+<a href="#">
+<img src="assets/images/email.png">
+Email
+</a>
 
-border-radius:30px;
+<a href="#">
+<img src="assets/images/whatsapp.png">
+WhatsApp
+</a>
 
-margin-bottom:30px;
+</div>
 
-color:#88bfff;
+</div>
 
-}
+<div class="right">
 
-h1{
+<img class="profile" src="assets/images/profile.png">
 
-font-size:75px;
-line-height:1;
+<img class="chart" src="assets/images/chart.png">
 
-}
+<img class="pie" src="assets/images/pie.png">
 
-.white{
+</div>
 
-color:white;
+</section>
 
-}
+<section class="about">
 
-.blue{
+<div class="card">
 
-color:#2d8cff;
+<h3>ABOUT ME</h3>
 
-}
+<p>
+I'm a Data Analyst passionate about transforming raw data into actionable insights using Excel, SQL, Power BI and automation.
+</p>
 
-h2{
+<div class="stats">
 
-margin-top:20px;
+<div>
+<h2>5+</h2>
+<p>Projects</p>
+</div>
 
-font-size:42px;
+<div>
+<h2>1+</h2>
+<p>Years Experience</p>
+</div>
 
-color:#ffbf47;
+<div>
+<h2>40%</h2>
+<p>Time Saved</p>
+</div>
 
-letter-spacing:4px;
+</div>
 
-}
+</div>
 
-.tagline{
+</section>
 
-margin-top:30px;
+</body>
 
-font-size:22px;
-
-padding:12px 25px;
-
-border:1px solid #555;
-
-display:inline-block;
-
-border-radius:40px;
-
-}
-
-.tagline span{
-
-color:#ffbf47;
-
-font-weight:bold;
-
-}
-
-.skills{
-
-margin-top:40px;
-
-display:flex;
-
-gap:30px;
-
-flex-wrap:wrap;
-
-}
-
-.skills div{
-
-display:flex;
-align-items:center;
-gap:10px;
-
-}
-
-.skills img{
-
-width:28px;
-
-}
-
-.buttons{
-
-display:flex;
-
-gap:20px;
-
-margin-top:45px;
-
-}
-
-.buttons a{
-
-display:flex;
-
-align-items:center;
-
-gap:10px;
-
-padding:14px 30px;
-
-border:1px solid #28466e;
-
-border-radius:12px;
-
-color:white;
-
-text-decoration:none;
-
-transition:.3s;
-
-}
-
-.buttons a:hover{
-
-background:#1565ff;
-
-}
-
-.buttons img{
-
-width:22px;
-
-}
-
-.profile{
-
-width:380px;
-
-z-index:10;
-
-}
-
-.chart{
-
-position:absolute;
-
-top:20px;
-
-right:0;
-
-width:170px;
-
-}
-
-.pie{
-
-position:absolute;
-
-bottom:80px;
-
-right:20px;
-
-width:110px;
-
-}
-
-.about{
-
-padding:60px;
-
-}
-
-.card{
-
-background:#091224;
-
-border:1px solid #17355d;
-
-padding:40px;
-
-border-radius:20px;
-
-}
-
-.card h3{
-
-margin-bottom:20px;
-
-font-size:30px;
-
-}
-
-.card p{
-
-line-height:1.8;
-
-color:#c7c7c7;
-
-}
-
-.stats{
-
-display:flex;
-
-gap:30px;
-
-margin-top:40px;
-
-}
-
-.stats div{
-
-background:#0d1628;
-
-padding:25px;
-
-border-radius:15px;
-
-border:1px solid #2b4f7b;
-
-width:220px;
-
-text-align:center;
-
-}
-
-.stats h2{
-
-color:#ffbf47;
-
-}
+</html>
