@@ -1,144 +1,285 @@
-<div align="center">
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Poppins,sans-serif;
+}
 
-<!-- Animated header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=200&section=header&text=Abdulrahman%20Muhammad&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Financial%20Intelligence%20%C3%97%20Data%20Skills&descAlignY=58&descSize=16&animation=fadeIn)
+body{
 
-<!-- Typing animation → clickable to portfolio -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=0F4C81&center=true&vCenter=true&width=680&lines=Turning+Financial+Data+into+Business+Decisions+%F0%9F%93%8A;Excel+%7C+Power+BI+%7C+Power+Query+%7C+SQL;Building+Dashboards+on+50%2C000%2B+Row+Datasets;Accounting+Background+%C3%97+Modern+Data+Tools)](https://abdodatanerd.figma.site/)
+background:#050b18;
+color:white;
 
-<br/>
+}
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F4C81?style=flat-square&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
+.hero{
 
-</div>
+width:100%;
+min-height:100vh;
 
----
+display:flex;
+justify-content:space-between;
+align-items:center;
 
-## 🧠 Who I Am
+padding:70px;
 
-> I'm a **Data Analyst** with a B.Com. in Accounting — which means I don't just process numbers, I *understand* what they mean for a business.
->
-> My accounting foundation gives me a built-in advantage: I know which metrics matter, how financial statements connect, and what decision-makers actually need to see. Combine that with modern data tools like **Excel, Power BI, Power Query, and SQL**, and the result is analysis that's both technically sound and business-relevant.
+background:
 
-```yaml
-Name        : Abdulrahman Muhammad Ahmed Ibrahim
-Role        : Data Analyst  |  Financial Intelligence × Data Skills
-Education   : B.Com. Accounting — Beni-Suef University
-              🏆 1st Rank University-Wide · Final Year · 94%
-Location    : Egypt 🇪🇬
-Languages   : Arabic (Native)  |  English (Very Good)
-Status      : 🟢 Open to Work — Freelance & Full-time
-Portfolio   : abdodatanerd.figma.site
-```
+radial-gradient(circle at right,#0b3d7c33,transparent 45%),
+#050b18;
 
----
+}
 
-## 🛠️ Technical Skills
+.left{
 
-<div align="center">
+width:55%;
 
-### 📊 Data & Analytics
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-Proficient-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pivot%20Tables](https://img.shields.io/badge/Pivot%20Tables-Expert-1a6bbf?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+}
 
-### 💻 Programming & Automation
-![Excel%20VBA](https://img.shields.io/badge/Excel%20VBA-Proficient-0F4C81?style=for-the-badge&logo=microsoft&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Planned-3776AB?style=for-the-badge&logo=python&logoColor=white)
+.right{
 
-### 📋 Business & Finance Domain
-![Financial%20Modeling](https://img.shields.io/badge/Financial%20Modeling-Proficient-0d3d66?style=for-the-badge&logo=chartmogul&logoColor=white)
-![Business%20Analysis](https://img.shields.io/badge/Business%20Analysis-Proficient-0F4C81?style=for-the-badge&logo=databricks&logoColor=white)
-![IFRS](https://img.shields.io/badge/IFRS-In%20Progress-E63946?style=for-the-badge&logo=bookstack&logoColor=white)
-![Odoo%20ERP](https://img.shields.io/badge/Odoo%20ERP-Familiar-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+width:45%;
+position:relative;
+display:flex;
+justify-content:center;
 
-</div>
+}
 
----
+.welcome{
 
-## 🚀 Featured Projects
+display:inline-block;
 
-| # | Project | Tools | Scale | Impact |
-|---|---------|-------|-------|--------|
-| 🥇 | **[Data Science Salary Dashboard](https://mostaql.com/portfolio/3116866-data-science-salary-dashboard)** | Excel · MEDIANIFS · Pivot Tables | 32,600+ rows | 3 dynamic filters · KPI cards · 7 sheets |
-| 🥈 | **[Social Reports Automation](https://mostaql.com/u/Abdulrahman677/portfolio)** | Excel VBA · Dynamic Ranges | — | ↓40% manual time · one-click workflow |
-| 🥉 | **[Net Profit Calculator & Dashboard](https://mostaql.com/u/Abdulrahman677/portfolio)** | VBA · Advanced Formulas | — | ↑40% accuracy · ↓50% reporting time |
-| 📊 | **[Data Science Job Market Analysis](https://sites.google.com/view/abdu-datanerd/project-page/4)** | Power Query · DAX · Power Pivot | 2023 dataset | Skills ↔ salary correlation · top-10 skills |
-| 📈 | **[BM Company Sales Dashboard](https://sites.google.com/view/abdu-datanerd/project-page/5)** | Excel · SUMIFS · MEDIANIFS | ~50,000 rows | 14 years of data · formula-only build |
+padding:10px 25px;
 
-> 💡 More projects uploading to this repo soon — stay tuned!
+border:1px solid #1e3d6b;
 
----
+border-radius:30px;
 
-## 💼 Experience
+margin-bottom:30px;
 
-**💻 Data Analyst & Excel Automation Specialist** *(Freelance)*
-`Mostaql Platform · 2024 – Present`
-- Built automated VBA systems handling data migration, report generation & financial dashboards
-- Delivered dashboards on datasets ranging from 32,600 to 50,000+ rows
-- Reduced client manual processing time by up to 50% across multiple projects
+color:#88bfff;
 
-**🏦 Data Literacy Trainee — CIB Bank** *(Aug 2024)*
-- Analyzed banking data to support decision-making
-- Developed skills in data collection, cleaning & trend identification
+}
 
-**🤝 HR Member — Enactus Beni-Suef** *(Mar 2022 – May 2023)*
-- Led HR team in project management, evaluation & development cycles
+h1{
 
----
+font-size:75px;
+line-height:1;
 
-## 🎓 Education & Certifications
+}
 
-```
-🎓  B.Com. Accounting (English Section)
-    Beni-Suef University  ·  Graduated June 2025
-    Grade: Very Good (High Honors)
-    🏆 1st Rank University-Wide — Final Year (94%)
+.white{
 
-🏅  Microsoft Office Specialist (MOS)
-🏅  International Computer Driving License (ICDL)
-🔄  IFRS Certification — In Progress
-```
+color:white;
 
----
+}
 
-## 📈 Currently Learning
+.blue{
 
-| Status | Topic | Details |
-|--------|-------|---------|
-| 🔄 Active | **SQL — Data with Baraa** | 30hr course · Completed: SELECT → GROUP BY → DDL → DML |
-| 🔄 Active | **Advanced Power BI** | DAX · Row-Level Security · Data Modeling |
-| 🔄 Active | **IFRS** | International Financial Reporting Standards |
-| 📅 Planned | **Python for Data Analysis** | pandas · matplotlib · financial automation |
+color:#2d8cff;
 
----
+}
 
-## 🤝 Connect With Me
+h2{
 
-<div align="center">
+margin-top:20px;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman%20Muhammad-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-muhammad-2003mar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdodatanerd.figma.site-0F4C81?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdodatanerd.figma.site/)
-[![Gmail](https://img.shields.io/badge/Gmail-abdulrahmanmuhammad0328-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanmuhammad0328@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B201140474679-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140474679)
+font-size:42px;
 
-</div>
+color:#ffbf47;
 
----
+letter-spacing:4px;
 
-<div align="center">
+}
 
-*"An accountant who learned to speak data — fluently."*
+.tagline{
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F4C81&height=100&section=footer)
+margin-top:30px;
 
-</div>
+font-size:22px;
+
+padding:12px 25px;
+
+border:1px solid #555;
+
+display:inline-block;
+
+border-radius:40px;
+
+}
+
+.tagline span{
+
+color:#ffbf47;
+
+font-weight:bold;
+
+}
+
+.skills{
+
+margin-top:40px;
+
+display:flex;
+
+gap:30px;
+
+flex-wrap:wrap;
+
+}
+
+.skills div{
+
+display:flex;
+align-items:center;
+gap:10px;
+
+}
+
+.skills img{
+
+width:28px;
+
+}
+
+.buttons{
+
+display:flex;
+
+gap:20px;
+
+margin-top:45px;
+
+}
+
+.buttons a{
+
+display:flex;
+
+align-items:center;
+
+gap:10px;
+
+padding:14px 30px;
+
+border:1px solid #28466e;
+
+border-radius:12px;
+
+color:white;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+.buttons a:hover{
+
+background:#1565ff;
+
+}
+
+.buttons img{
+
+width:22px;
+
+}
+
+.profile{
+
+width:380px;
+
+z-index:10;
+
+}
+
+.chart{
+
+position:absolute;
+
+top:20px;
+
+right:0;
+
+width:170px;
+
+}
+
+.pie{
+
+position:absolute;
+
+bottom:80px;
+
+right:20px;
+
+width:110px;
+
+}
+
+.about{
+
+padding:60px;
+
+}
+
+.card{
+
+background:#091224;
+
+border:1px solid #17355d;
+
+padding:40px;
+
+border-radius:20px;
+
+}
+
+.card h3{
+
+margin-bottom:20px;
+
+font-size:30px;
+
+}
+
+.card p{
+
+line-height:1.8;
+
+color:#c7c7c7;
+
+}
+
+.stats{
+
+display:flex;
+
+gap:30px;
+
+margin-top:40px;
+
+}
+
+.stats div{
+
+background:#0d1628;
+
+padding:25px;
+
+border-radius:15px;
+
+border:1px solid #2b4f7b;
+
+width:220px;
+
+text-align:center;
+
+}
+
+.stats h2{
+
+color:#ffbf47;
+
+}
