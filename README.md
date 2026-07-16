@@ -1,135 +1,97 @@
-<!DOCTYPE html>
-<html lang="en">
+<div align="center">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abdulrahman Muhammad | Data Analyst</title>
+# 👋 As-salamu Alaikum
 
-    <link rel="stylesheet" href="css/style.css">
-</head>
+# ABDULRAHMAN
+# <span style="color:#2F81F7;">MUHAMMAD</span>
 
-<body>
+### 🟨 DATA ANALYST
 
-<section class="hero">
+### *From Raw Data to Smart Decisions*
 
-<div class="left">
+<br>
 
-<div class="welcome">
-👋 As-salamu Alaikum
-</div>
+<img src="assets/images/excel.png" width="40">
+<img src="assets/images/powerbi.png" width="40">
+<img src="assets/images/sql.png" width="40">
+<img src="assets/images/dax.png" width="40">
+<img src="assets/images/powerquery.png" width="40">
 
-<h1>
-<span class="white">ABDULRAHMAN</span><br>
-<span class="blue">MUHAMMAD</span>
-</h1>
+<br><br>
 
-<h2>DATA ANALYST</h2>
-
-<div class="tagline">
-From <span>Raw Data</span> to <span>Smart Decisions</span>
-</div>
-
-<div class="skills">
-
-<div>
-<img src="assets/images/excel.png">
-<span>Excel</span>
-</div>
-
-<div>
-<img src="assets/images/powerbi.png">
-<span>Power BI</span>
-</div>
-
-<div>
-<img src="assets/images/sql.png">
-<span>SQL</span>
-</div>
-
-<div>
-<img src="assets/images/dax.png">
-<span>DAX</span>
-</div>
-
-<div>
-<img src="assets/images/powerquery.png">
-<span>Power Query</span>
-</div>
-
-</div>
-
-<div class="buttons">
-
-<a href="https://github.com/abdulrahman0328" target="_blank">
-<img src="assets/images/github.png">
-GitHub
+<a href="https://github.com/abdulrahman0328">
+<img src="assets/images/github.png" width="45">
 </a>
 
-<a href="#">
-<img src="assets/images/linkedin.png">
-LinkedIn
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="assets/images/linkedin.png" width="45">
 </a>
 
-<a href="#">
-<img src="assets/images/email.png">
-Email
+<a href="mailto:YOUR_EMAIL">
+<img src="assets/images/email.png" width="45">
 </a>
 
-<a href="#">
-<img src="assets/images/whatsapp.png">
-WhatsApp
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="assets/images/whatsapp.png" width="45">
 </a>
 
 </div>
 
-</div>
+---
 
-<div class="right">
+# 👨‍💻 About Me
 
-<img class="profile" src="assets/images/profile.png">
+I'm a **Data Analyst** with a strong foundation in **Accounting and Business**.
 
-<img class="chart" src="assets/images/chart.png">
+I transform raw data into meaningful insights that support strategic business decisions.
 
-<img class="pie" src="assets/images/pie.png">
+My accounting background gives me a deep understanding of financial reporting, KPIs, profitability, and business processes.
 
-</div>
+I combine business acumen with data tools to build clean data models, interactive dashboards, and automated solutions.
 
-</section>
+---
 
-<section class="about">
+# 🚀 Tech Stack
 
-<div class="card">
+| Tool | Status |
+|------|--------|
+| Excel | ⭐⭐⭐⭐⭐ |
+| Power BI | ⭐⭐⭐⭐⭐ |
+| SQL | ⭐⭐⭐⭐⭐ |
+| DAX | ⭐⭐⭐⭐☆ |
+| Power Query | ⭐⭐⭐⭐⭐ |
+| VBA | ⭐⭐⭐⭐☆ |
 
-<h3>ABOUT ME</h3>
+---
 
-<p>
-I'm a Data Analyst passionate about transforming raw data into actionable insights using Excel, SQL, Power BI and automation.
-</p>
+# 📊 Core Competencies
 
-<div class="stats">
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+- Financial Analysis
+- KPI Design & Reporting
+- Data Cleaning & Transformation
+- Excel Automation (VBA)
+- SQL Querying
+- Dashboard Development
+- Decision Support
 
-<div>
-<h2>5+</h2>
-<p>Projects</p>
-</div>
+---
 
-<div>
-<h2>1+</h2>
-<p>Years Experience</p>
-</div>
+# 📈 Quick Stats
 
-<div>
-<h2>40%</h2>
-<p>Time Saved</p>
-</div>
+| Metric | Value |
+|---------|------:|
+| 📁 Projects Completed | **5+** |
+| 💼 Years of Experience | **1+** |
+| ⚡ Avg. Time Saved with Automation | **40%** |
 
-</div>
+---
 
-</div>
+# 📫 Connect With Me
 
-</section>
-
-</body>
-
-</html>
+- 💼 GitHub: https://github.com/abdulrahman0328
+- 💼 LinkedIn: YOUR_LINK
+- 📧 Email: YOUR_EMAIL
+- 📱 WhatsApp: YOUR_NUMBER
