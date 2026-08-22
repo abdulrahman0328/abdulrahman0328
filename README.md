@@ -101,15 +101,6 @@
 | **Banking Trainee** | CIB Bank | Gained practical experience in banking operations & financial reporting. |
 | **Bachelor of Commerce** | Beni-Suef University | Major: Accounting (English) — **Very Good with High Honors**<br/>🏆 **Final Year Topper (1st Rank - 94%)** |
 
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulrahman0328&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman0328&layout=compact&theme=transparent&hide_border=true"/>
-
 </div>
 
 ---
