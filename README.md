@@ -51,7 +51,7 @@
 
 | Area | Tools & Proficiencies |
 | :--- | :--- |
-| **Data Analytics & Visualization** | `Excel (Advanced)` `Power BI` `SQL` `Power Query` `DAX` `Python` |
+| **Data Analytics & Visualization** | `Excel (Advanced)` `Power BI` `SQL` `Power Query` `DAX`  |
 | **Financial & Business Intelligence** | `Financial Analysis` `Financial Modeling` `KPI Design` `Data Storytelling` |
 
 </div>
