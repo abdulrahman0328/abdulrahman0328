@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING TEXT -->
 <a href="https://abdodatanerd.figma.site/">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=5EA8FF&center=true&vCenter=true&width=850&lines=Assalamu+Alaikum!+I'm+Abdulrahman+Muhammad+%F0%9F%90%8B;Data+Analyst+%26+Financial+Intelligence+Specialist;Excel+%E2%80%A2+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Power+Query+%E2%80%A2+Python+%E2%80%A2+DAX;Transforming+Raw+Data+into+Actionable+Business+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=5EA8FF&center=true&vCenter=true&width=850&lines=Assalamu+Alaikum!+I'm+Abdulrahman+Muhammad+%F0%9F%90%8B;Data+Analyst+%26+Financial+Intelligence+Specialist;Excel+%E2%80%A2+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Power+Query+%E2%80%A2+DAX;Transforming+Raw+Data+into+Actionable+Business+Insights" />
 </a>
 
 <br/><br/>
