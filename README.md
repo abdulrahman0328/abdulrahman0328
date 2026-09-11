@@ -1,782 +1,490 @@
-<div align="center">
+::: {align="center"}
+# ABDULRAHMAN MUHAMMAD
 
-<!-- ========================================================= -->
+### Junior Data Analyst
 
-<!-- HERO -->
+**Excel · Power BI · SQL · Financial Analysis**
 
-<!-- ========================================================= -->
+*Turning Financial Data into Business Insights*
 
-<h1>ABDULRAHMAN MUHAMMAD</h1>
+`ACCOUNTING FOUNDATION` × `DATA ANALYTICS` × `BUSINESS THINKING`
 
-<h3>Junior Data Analyst</h3>
+`<br/>`{=html}
 
-<p>
-  <strong>Excel · Power BI · SQL · Financial Analysis</strong>
-</p>
+`<a href="https://abdodatanerd.figma.site/">`{=html}Portfolio`</a>`{=html}
+ • 
+`<a href="https://www.linkedin.com/in/abdulrahman-m-2003march">`{=html}LinkedIn`</a>`{=html}
+ • 
+`<a href="https://github.com/abdulrahman0328">`{=html}GitHub`</a>`{=html}
+ • 
+`<a href="mailto:abdulrahmanmuhammad0328@gmail.com">`{=html}Email`</a>`{=html}
+:::
 
-<p>
-  Turning financial and business data into clear, practical insights.
-</p>
+------------------------------------------------------------------------
 
-<br/>
+::: {align="center"}
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#about">`{=html}⌂`<br/>`{=html}`<b>`{=html}About`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#skills">`{=html}◈`<br/>`{=html}`<b>`{=html}Skills`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#projects">`{=html}▣`<br/>`{=html}`<b>`{=html}Projects`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#experience">`{=html}◌`<br/>`{=html}`<b>`{=html}Experience`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#education--certifications">`{=html}◇`<br/>`{=html}`<b>`{=html}Education`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#learning-roadmap">`{=html}↗`<br/>`{=html}`<b>`{=html}Roadmap`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+│
+```{=html}
+</td>
+```
+```{=html}
+<td align="center">
+```
+`<a href="#contact">`{=html}✉`<br/>`{=html}`<b>`{=html}Contact`</b>`{=html}`</a>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+`<sub>`{=html}Navigate the profile like a compact portfolio --- each
+skill opens its own detailed page.`</sub>`{=html}
+:::
 
-<a href="https://abdodatanerd.figma.site/">
-  <img src="https://img.shields.io/badge/Portfolio-12386B?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulrahman-m-2003march">
-  <img src="https://img.shields.io/badge/LinkedIn-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/abdulrahman0328">
-  <img src="https://img.shields.io/badge/GitHub-07111F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+------------------------------------------------------------------------
 
-<br/><br/>
+## About
 
-<em>
-"Good analysis turns numbers into decisions."
-</em>
+I'm a **Junior Data Analyst** with a **Commerce & Accounting
+background**, building my career around the intersection of **data
+analysis, business thinking, and financial understanding**.
 
-</div>
+My approach is:
 
----
+> **Understand the question → prepare the data → analyze → visualize →
+> communicate the insight.**
 
-# About
+My accounting foundation supports accuracy, structured reporting,
+financial interpretation, and business performance analysis. My data
+journey turns that foundation into practical dashboards, reporting
+solutions, and analytical workflows.
 
-I'm a **Junior Data Analyst** with a **Commerce & Accounting background**, building my career around the intersection of **data analysis, business thinking, and financial understanding**.
+::: {align="center"}
+**Accounting → Financial Thinking → Data Analysis → Business
+Intelligence → Business Insights**
+:::
 
-My approach is simple:
+------------------------------------------------------------------------
 
-> **Understand the business question → prepare the data → analyze the numbers → visualize the story → communicate the insight.**
+## Skills
 
-My core toolkit is:
+A compact skill matrix keeps the main profile focused. **Click a skill
+to open its dedicated page.**
 
-**Excel · Power BI · SQL**
+### Core
 
-with growing experience in:
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+`<a href="skills/excel.md">`{=html}
+`<img src="assets/skill-icons/excel.svg" width="42" align="left" alt="Excel"/>`{=html}
+`<b>`{=html}Microsoft Excel`</b>`{=html}`<br/>`{=html}
+`<sub>`{=html}Analysis · Dashboards ·
+Automation`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Core`</sub>`{=html} `</a>`{=html}
 
-**Power Query · Power Pivot · DAX · Data Visualization · Financial Analysis**
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+`<a href="skills/power-bi.md">`{=html}
+`<img src="assets/skill-icons/power-bi.svg" width="42" align="left" alt="Power BI"/>`{=html}
+`<b>`{=html}Power BI`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Reporting
+· DAX · Visualization`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Core`</sub>`{=html} `</a>`{=html}
 
-My accounting background gives me a strong foundation in understanding financial information, accuracy, structured reporting, and business performance.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<a href="skills/data-visualization.md">`{=html}
+`<img src="assets/skill-icons/data-visualization.svg" width="42" align="left" alt="Data Visualization"/>`{=html}
+`<b>`{=html}Data Visualization`</b>`{=html}`<br/>`{=html}
+`<sub>`{=html}KPI · Trends · Decision-oriented
+reporting`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Core`</sub>`{=html} `</a>`{=html}
 
-My data journey allows me to turn that foundation into practical analytical work through dashboards, reporting solutions, data preparation, and business-focused analysis.
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<a href="skills/financial-analysis.md">`{=html}
+`<img src="assets/skill-icons/financial-analysis.svg" width="42" align="left" alt="Financial Analysis"/>`{=html}
+`<b>`{=html}Financial Analysis`</b>`{=html}`<br/>`{=html}
+`<sub>`{=html}Statements · KPIs · Business
+performance`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Core`</sub>`{=html} `</a>`{=html}
 
-<br/>
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+### Building
 
-<div align="center">
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+`<a href="skills/sql.md">`{=html}
+`<img src="assets/skill-icons/sql.svg" width="42" align="left" alt="SQL"/>`{=html}
+`<b>`{=html}SQL`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Querying ·
+Joins · Analytical SQL`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Building`</sub>`{=html} `</a>`{=html}
 
-### My Direction
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+`<a href="skills/power-query.md">`{=html}
+`<img src="assets/skill-icons/power-query.svg" width="42" align="left" alt="Power Query"/>`{=html}
+`<b>`{=html}Power Query`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Clean ·
+Transform · Merge · Append`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Building`</sub>`{=html} `</a>`{=html}
 
-**Accounting**
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<a href="skills/power-pivot.md">`{=html}
+`<img src="assets/skill-icons/power-pivot.svg" width="42" align="left" alt="Power Pivot"/>`{=html}
+`<b>`{=html}Power Pivot`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Models
+· Relationships · Measures`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Building`</sub>`{=html} `</a>`{=html}
 
-↓
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+`<a href="skills/dax.md">`{=html}
+`<img src="assets/skill-icons/dax.svg" width="42" align="left" alt="DAX"/>`{=html}
+`<b>`{=html}DAX`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Measures ·
+Context · KPIs`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}●
+Building`</sub>`{=html} `</a>`{=html}
 
-**Financial Thinking**
-
-↓
-
-**Data Analysis**
-
-↓
-
-**Business Intelligence**
-
-↓
-
-**Business Insights**
-
-</div>
-
----
-
-# Skills
-
-<div align="center">
-
-### Core Skills
-
-|       Excel       |          Power BI         |        SQL        |
-| :---------------: | :-----------------------: | :---------------: |
-| **Data Analysis** | **Business Intelligence** | **Data Querying** |
-|     Dashboards    |         Reporting         |   Analytical SQL  |
-|     Automation    |            DAX            |       Joins       |
-
-<br/>
-
-### Growing Skills
-
-**Power Query · Power Pivot · DAX · Data Visualization · Financial Analysis**
-
-<br/>
-
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 ### Planned
 
-**Python · Tableau**
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%">
+```
+`<img src="assets/skill-icons/python.svg" width="42" align="left" alt="Python"/>`{=html}
+`<b>`{=html}Python`</b>`{=html}`<br/>`{=html} `<sub>`{=html}Analysis ·
+Automation · EDA`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}○
+Planned`</sub>`{=html}
 
-<br/>
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%">
+```
+`<img src="assets/skill-icons/tableau.svg" width="42" align="left" alt="Tableau"/>`{=html}
+`<b>`{=html}Tableau`</b>`{=html}`<br/>`{=html}
+`<sub>`{=html}Visualization · Storytelling ·
+BI`</sub>`{=html}`<br/>`{=html} `<sub>`{=html}○ Planned`</sub>`{=html}
 
-<sub>
-Core skills are actively used · Growing skills are currently being developed · Planned skills are part of the future roadmap
-</sub>
-
-</div>
-
----
-
-# Learning Roadmap
-
-My learning journey is built around one goal:
-
-> **Move from structured data → analysis → visualization → business insight.**
-
-```text
-ACCOUNTING FOUNDATION
-        │
-        ▼
-FINANCIAL THINKING
-        │
-        ▼
-EXCEL
-        │
-        ▼
-POWER QUERY / DATA PREPARATION
-        │
-        ▼
-POWER PIVOT / DATA MODELING
-        │
-        ▼
-POWER BI / DAX
-        │
-        ▼
-SQL / ANALYTICAL QUERYING
-        │
-        ▼
-BUSINESS INTELLIGENCE
-        │
-        ▼
-BUSINESS INSIGHTS
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
 ```
 
-### Current Focus
+------------------------------------------------------------------------
 
-<div align="center">
+## Projects
 
-**SQL** · **Power Query** · **Power Pivot** · **DAX**
+Real work should be easier to see than a long course list.
 
-</div>
-
-### Next on the Roadmap
-
-<div align="center">
-
-**Python** · **Tableau**
-
-</div>
-
----
-
-# Skill Details
-
-> Each skill below has a specific role in my analytical workflow.
-
-## 📊 Excel
-
-**Foundation → Analysis → Dashboards → Automation**
-
-Excel was one of the foundations of my transition from accounting into data analysis.
-
-### Learning Path
-
-* Advanced formulas
-* XLOOKUP
-* SUMIFS / COUNTIFS
-* INDEX / MATCH
-* Dynamic Arrays
-* FILTER / SORT / UNIQUE
-* Data Validation
-* Excel Tables
-* Dashboard Design
-* Data Analysis
-* Reporting
-* VBA Automation
-
-### Practical Application
-
-I have applied Excel through:
-
-* Data Science Salary Dashboard
-* BM Company Sales Dashboard
-* Dynamic Financial Reports
-* Excel / VBA Automation Projects
-
-I use Excel not only for entering data, but for:
-
-**Structuring → Validating → Analyzing → Automating → Reporting**
-
----
-
-## 📈 Power BI
-
-**Data Transformation → Modeling → DAX → Reporting**
-
-Power BI is an important part of my transition toward Business Intelligence and professional data reporting.
-
-### Learning Path
-
-* Power Query
-* Data Transformation
-* Data Modeling
-* DAX
-* Measures
-* KPIs
-* Interactive Reports
-* Drill-through
-* Business Questions
-* Dashboard Design
-
-### Main Project
-
-**Data Job Market Dashboard**
-
-A Power BI project exploring:
-
-* Job demand
-* Median salary
-* Job trends
-* Employment types
-* Job platforms
-* Remote work
-* Degree requirements
-* Global job-market patterns
-
-**Tools:** Power BI · DAX · Power Query · Excel
-
----
-
-## 🗄️ SQL
-
-**Querying → Aggregation → Joins → Analytical SQL**
-
-SQL is part of my current data-analysis learning journey.
-
-### Learning Path
-
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* DISTINCT
-* TOP
-* DDL
-* CREATE / ALTER / DROP
-* JOINs
-* Set Operations
-* Functions
-* Aggregate Functions
-* Window Functions
-
-My SQL learning is focused on understanding how to move from raw relational data toward:
-
-**Business Questions → Queries → Results → Interpretation**
-
-### Learning Resource
-
-**Data With Baraa**
-
----
-
-## 🔄 Power Query
-
-Power Query is part of my growing toolkit for preparing data before analysis.
-
-### Current Focus
-
-* Data cleaning
-* Transformation
-* Append
-* Merge
-* Data types
-* Reusable transformation steps
-* Preparing structured datasets for Power BI and Excel
-
----
-
-## 🧮 Power Pivot
-
-Power Pivot is part of my roadmap toward stronger data modeling.
-
-### Current Focus
-
-* Data Models
-* Relationships
-* Measures
-* Analytical structures
-* Connecting multiple tables
-
----
-
-## 📐 DAX
-
-DAX is being developed alongside my Power BI journey.
-
-### Current Focus
-
-* Measures
-* Calculations
-* Filter context
-* Business KPIs
-* Analytical calculations
-
-The goal is to move beyond simply displaying data toward **building meaningful analytical metrics**.
-
----
-
-## 📊 Data Visualization
-
-My visualization approach is based on one principle:
-
-> **A dashboard should answer a question, not simply display numbers.**
-
-I focus on:
-
-* KPI design
-* Clear layouts
-* Filtering
-* Comparisons
-* Trends
-* Business context
-* Visual hierarchy
-* Decision-oriented reporting
-
----
-
-## 💹 Financial Analysis
-
-My Commerce & Accounting background naturally connects with my interest in financial and business analysis.
-
-### Focus Areas
-
-* Financial statements
-* Revenue analysis
-* Expense analysis
-* Business KPIs
-* Reporting
-* Financial data interpretation
-* Connecting financial information with business performance
-
-My goal is to combine my **accounting foundation with data analytics**.
-
----
-
-## 🚧 Planned Skills
-
-### 🐍 Python
-
-**Planned Skill**
-
-Future focus:
-
-* Python fundamentals
-* pandas
-* Data Cleaning
-* Data Analysis
-* Automation
-* Exploratory Data Analysis
-
-### 📊 Tableau
-
-**Planned Skill**
-
-Future focus:
-
-* Visualization
-* Dashboard Design
-* Storytelling
-* Business Intelligence
-
----
-
-# Projects
-
-A selection of projects focused on **data analysis, dashboards, reporting, and practical business questions**.
-
----
-
-## 📊 Data Science Salary Dashboard
+### 📊 Data Science Salary Dashboard
 
 **32,672 job postings · Excel · Data Analysis · Dashboard**
 
-An interactive Excel dashboard analyzing the data-science job market across:
+Interactive Excel dashboard analyzing salaries, job titles, countries,
+employment types, and job platforms using Excel Tables, dynamic arrays,
+lookups, validation, charts, and dashboard design.
 
-* Salaries
-* Job titles
-* Countries
-* Employment types
-* Job platforms
+`<a href="https://github.com/abdulrahman0328/data-science-salary-dashboard">`{=html}View
+repository →`</a>`{=html}
 
-The project uses:
-
-* Excel Tables
-* Dynamic Arrays
-* Lookup Functions
-* Data Validation
-* Interactive Charts
-* Dashboard Design
-
-<br/>
-
-<a href="https://github.com/abdulrahman0328/data-science-salary-dashboard">
-  <img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white&labelColor=07111F" alt="View Data Science Salary Dashboard repository"/>
-</a>
-
----
-
-## 📈 Data Job Market Dashboard
+### 📈 Data Job Market Dashboard
 
 **Power BI · DAX · Power Query · Excel**
 
-A Power BI reporting project exploring the global data-job market.
+Power BI reporting project exploring job demand, median salary, trends,
+employment types, platforms, remote work, degree requirements, and
+global distribution.
 
-The dashboard addresses questions around:
+`<a href="https://github.com/abdulrahman0328/powerbi-data-job-market-dashboard">`{=html}View
+repository →`</a>`{=html}
 
-* Job demand
-* Median salary
-* Job trends
-* Employment types
-* Job platforms
-* Remote work
-* Degree requirements
-* Global job distribution
+### 🚗 BM Company Sales Dashboard
 
-<br/>
+**50,000+ records · Excel · Data Analysis**
 
-<a href="https://github.com/abdulrahman0328/powerbi-data-job-market-dashboard">
-  <img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white&labelColor=07111F" alt="View Power BI Data Job Market Dashboard repository"/>
-</a>
+Sales-analysis project exploring vehicle model, region, fuel,
+transmission, engine size, mileage, price, sales volume, yearly
+performance, and sales classification.
 
----
+------------------------------------------------------------------------
 
-# Freelance Projects
+## Freelance Work
 
-### Independent Freelance Work
+Independent freelance work completed through **Mostaql**, focused on
+practical Excel/VBA and reporting solutions.
 
-These projects represent practical work completed through freelance activity and are kept separate from my public GitHub repositories.
+  -----------------------------------------------------------------------
+  Project                             Focus
+  ----------------------------------- -----------------------------------
+  **Excel / VBA Financial Reporting   Validation · Income/expense
+  Automation**                        tracking · Search · Automated
+                                      transfer · Summary reporting
 
----
+  **Social Reporting & Data           Structured entry · Personal-number
+  Management Tool**                   search · Retrieval · Database
+                                      transfer · Automated workflows
 
-## ⚙️ Excel / VBA Financial Reporting Automation
+  **BM Company Sales Dashboard**      50,000+ records · Sales analysis ·
+                                      Dashboarding
 
-A structured Excel solution for recording and analyzing financial transactions.
+  **Dynamic Financial Reports**       Financial tracking · Automated
+                                      calculations · Search · Filtering ·
+                                      Business summaries
+  -----------------------------------------------------------------------
 
-### Focus Areas
+`<a href="https://mostaql.com/u/Abdulrahman677/portfolio">`{=html}View
+freelance portfolio →`</a>`{=html}
 
-* Data entry
-* Data validation
-* Income / expense tracking
-* Search and filtering
-* Automated data transfer
-* Summary reporting
-* VBA automation
+------------------------------------------------------------------------
 
-**Tools:** Excel · VBA · Formulas · Data Validation
+## Experience
 
----
+### 💼 Freelance Data Analyst --- Mostaql
 
-## 👥 Social Reporting & Data Management Tool
+Independent freelance work focused on practical Excel and data-analysis
+solutions.
 
-An Excel/VBA-based data-management solution designed around structured social reporting.
+**Focus:** Excel · Power BI · Dashboards · Reporting · VBA
 
-### Focus Areas
+### 🏦 Banking Trainee --- CIB
 
-* Structured data entry
-* Personal-number based search
-* Data retrieval
-* Database transfer
-* Payment information
-* Family information
-* Automated workflows
-
-**Tools:** Excel · VBA · Data Management
-
----
-
-## 🚗 BM Company Sales Dashboard
-
-A large sales-analysis project containing **50,000+ records**.
-
-The analysis explores:
-
-* Sales volume
-* Price
-* Vehicle model
-* Region
-* Fuel type
-* Transmission
-* Engine size
-* Mileage
-* Sales classification
-* Yearly performance
-
-**Tools:** Excel · Data Analysis · Dashboarding
-
----
-
-## 💹 Dynamic Financial Reports
-
-Excel-based reporting work focused on:
-
-* Financial tracking
-* Structured reporting
-* Automated calculations
-* Search
-* Filtering
-* Business summaries
-
-**Tools:** Excel · VBA · Financial Analysis
-
-<br/>
-
-<div align="center">
-
-<a href="https://mostaql.com/u/Abdulrahman677/portfolio">
-  <img src="https://img.shields.io/badge/View%20Freelance%20Portfolio-12386B?style=flat-square&logoColor=white&labelColor=07111F" alt="View freelance portfolio"/>
-</a>
-
-</div>
-
----
-
-# Experience
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="48%" valign="top">
-
-### 💼 Freelance Data Analyst
-
-**Mostaql**
-
-Independent freelance work focused on practical Excel and data-analysis solutions.
-
-**Focus**
-
-Excel · Power BI · Dashboards · Reporting · VBA
-
-</td>
-
-<td width="4%" align="center">
-
-**●**
-
-<br/>
-│
-<br/>
-**●**
-
-</td>
-
-<td width="48%" valign="top">
-
-### 🏦 Banking Trainee
-
-**CIB**
-
-Training focused on banking data literacy, data interpretation, and reporting concepts.
-
-**Focus**
-
-Banking Data · Data Literacy · Reporting
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="48%" valign="top">
-
-### 🎓 B.Com — Accounting
-
-**Beni-Suef University**
-
-Commerce — English Section
-
-Accounting specialization with a strong foundation in financial and business concepts.
-
-</td>
-
-<td width="4%" align="center">
-
-**●**
-
-<br/>
-│
-<br/>
-**●**
-
-</td>
-
-<td width="48%" valign="top">
+Training focused on banking data literacy, data interpretation, and
+reporting concepts.
 
 ### 📊 Data Analysis Learning Journey
 
-**Continuous Development**
+Continuous development through courses, projects, dashboards, and real
+datasets.
 
-Building practical skills through courses, projects, dashboards, and real datasets.
+**Path:** Excel → Power BI → SQL → Business Intelligence
 
-**Focus**
+------------------------------------------------------------------------
 
-Excel → Power BI → SQL → Business Intelligence
+## Education & Certifications
 
-</td>
+  -----------------------------------------------------------------------
+  Year                    Track                   Institution
+  ----------------------- ----------------------- -----------------------
+  **2025**                B.Com. --- Accounting,  Beni-Suef University
+                          English Section         
 
-</tr>
-</table>
+  **2025**                Banking Data Literacy & CIB Bank
+                          Analytics Training      
 
-</div>
+  **2025**                Excel for Data          Luke Barousse
+                          Analytics               
 
----
+  **2024**                Microsoft Office        Microsoft
+                          Specialist (MOS)        
+  -----------------------------------------------------------------------
 
-# Education & Certifications
+------------------------------------------------------------------------
 
-<div align="center">
+## Learning Roadmap
 
-| Qualification                                             |      Type     | Year |
-| :-------------------------------------------------------- | :-----------: | :--: |
-| **Microsoft Office Specialist (MOS)**                     | Certification | 2024 |
-| **Banking Data Literacy & Analytics Training — CIB Bank** |    Training   | 2025 |
-| **Bachelor of Commerce (B.Com.) — Accounting**            |   Education   | 2025 |
-| **Excel for Data Analytics — Luke Barousse**              | Certification | 2025 |
+::: {align="center"}
+**Accounting** → **Financial Thinking** → **Excel** → **Data
+Preparation** → **Power BI** → **SQL** → **Business Intelligence** →
+**Business Insights**
+:::
 
-</div>
+Detailed skill notes live on dedicated pages so the main profile stays
+focused.
 
-### 🏅 Microsoft Office Specialist (MOS)
+**Currently building:** SQL · Power Query · Power Pivot · DAX\
+**Next:** Python · Tableau
 
-Certified in Microsoft Office applications with advanced skills in:
+------------------------------------------------------------------------
 
-**Excel · Word · PowerPoint**
+## Analytics Workflow
 
-focused on data analysis, reporting, and professional document creation.
+::: {align="center"}
+`QUESTION` → `DATA` → `CLEAN` → `ANALYZE` → `VISUALIZE` → `INSIGHT` →
+`DECISION`
+:::
 
-### 🏦 Banking Data Literacy & Analytics Training
+------------------------------------------------------------------------
 
-**CIB Bank**
+## Contact
 
-Training focused on banking data analysis, data interpretation, and reporting to support decision-making and improve operational processes.
+::: {align="center"}
+`<a href="https://abdodatanerd.figma.site/">`{=html}Portfolio`</a>`{=html}
+ • 
+`<a href="https://www.linkedin.com/in/abdulrahman-m-2003march">`{=html}LinkedIn`</a>`{=html}
+ • 
+`<a href="mailto:abdulrahmanmuhammad0328@gmail.com">`{=html}Email`</a>`{=html}
+ •  `<a href="https://wa.me/201140474679">`{=html}WhatsApp`</a>`{=html}
+ • 
+`<a href="https://github.com/abdulrahman0328">`{=html}GitHub`</a>`{=html}
 
-### 🎓 Bachelor of Commerce — Accounting
+`<br/>`{=html}`<br/>`{=html}
 
-**Beni-Suef University — Faculty of Commerce**
-
-English Section.
-
-Focused on financial accounting, auditing, taxation, corporate finance, and managerial accounting, with strong analytical and business foundations.
-
-### 📊 Excel for Data Analytics
-
-**Luke Barousse**
-
-Training focused on advanced Excel techniques for data analysis, dashboard design, data visualization, and interactive reporting using real-world datasets.
-
----
-
-# Currently Building
-
-<div align="center">
-
-### Active Learning
-
-**SQL · Power Query · Power Pivot · DAX**
-
-<br/>
-
-<sub>
-Strengthening my analytical foundation and moving toward more advanced Business Intelligence workflows.
-</sub>
-
-<br/><br/>
-
-### Next on the Roadmap
-
-**Python · Tableau**
-
-</div>
-
----
-
-# My Analytics Workflow
-
-<div align="center">
-
-**QUESTION**
-
-↓
-
-**DATA**
-
-↓
-
-**CLEAN**
-
-↓
-
-**ANALYZE**
-
-↓
-
-**VISUALIZE**
-
-↓
-
-**INSIGHT**
-
-↓
-
-**DECISION**
-
-</div>
-
-This workflow represents how I approach analytical problems:
-
-> Start with the business question, work with the data, find the pattern, communicate the insight, and connect it to a decision.
-
----
-
-# Let's Connect
-
-<div align="center">
-
-<a href="https://abdodatanerd.figma.site/" title="Portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-12386B?style=flat-square&logo=figma&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdulrahman-m-2003march" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0F4C81?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:abdulrahmanmuhammad0328@gmail.com" title="Email">
-  <img src="https://img.shields.io/badge/Email-07111F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://wa.me/201140474679" title="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-12386B?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-&nbsp;
-<a href="https://github.com/abdulrahman0328" title="GitHub">
-  <img src="https://img.shields.io/badge/GitHub-07111F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<sub>
-
-<strong>Junior Data Analyst · Excel · Power BI · SQL · Financial Analysis</strong>
-
-</sub>
-
-</div>
+`<sub>`{=html}`<b>`{=html}Junior Data Analyst · Excel · Power BI · SQL ·
+Financial Analysis`</b>`{=html}`</sub>`{=html}
+:::
