@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 # ABDULRAHMAN MUHAMMAD
 
 ### Junior Data Analyst
@@ -487,4 +487,3 @@ focused.
 
 `<sub>`{=html}`<b>`{=html}Junior Data Analyst · Excel · Power BI · SQL ·
 Financial Analysis`</b>`{=html}`</sub>`{=html}
-:::
