@@ -1,1176 +1,921 @@
-# GitHub README Redesign — Abdulrahman Muhammad
+<div align="center">
 
-## Goal: Modern Junior Data Analyst Portfolio Experience
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
-You are editing my GitHub profile README.
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111F,45:102D52,75:1769AA,100:2F80ED&text=ABDULRAHMAN%20MUHAMMAD&fontColor=FFFFFF&fontSize=32&fontAlignY=39&desc=Junior%20Data%20Analyst&descColor=DCEEFF&descSize=15&descAlignY=60&animation=fadeIn&section=header"
+  width="100%"
+  alt="Abdulrahman Muhammad — Junior Data Analyst"
+/>
 
-Do NOT treat this as a simple Markdown cleanup.
+<!-- Data-analysis quote -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4200&pause=2200&color=5EA8FF&center=true&vCenter=true&width=720&height=35&lines=Good+analysis+turns+numbers+into+decisions.;Behind+every+number+is+a+business+question.;Data+tells+the+story.+Analysis+gives+it+meaning.;Numbers+become+powerful+when+they+answer+the+right+question."
+  alt="Data analysis quotes"
+/>
 
-I want you to redesign the README into a **modern, minimal, premium Junior Data Analyst profile** that visually connects with my portfolio website:
+<br/>
 
-**Portfolio:** https://abdodatanerd.figma.site/
+<!-- ========================================================= -->
+<!-- ICON-ONLY CONTACT / SOCIAL NAVIGATION -->
+<!-- ========================================================= -->
 
-The final result must feel like a real Data Analyst portfolio rather than a traditional GitHub README full of badges and old-style colored boxes.
+<a href="https://abdodatanerd.figma.site/" title="Portfolio">
+  <img src="https://cdn.simpleicons.org/figma/5EA8FF" width="30" height="30" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-Use the existing README content and real project information as the foundation, but redesign the visual system, navigation, hierarchy, and interactions.
+<a href="https://www.linkedin.com/in/abdulrahman-m-2003march" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/5EA8FF" width="30" height="30" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
----
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com" title="Email">
+  <img src="https://cdn.simpleicons.org/gmail/5EA8FF" width="30" height="30" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-# 1. CORE DESIGN DIRECTION
+<a href="https://wa.me/201140474679" title="WhatsApp">
+  <img src="https://cdn.simpleicons.org/whatsapp/5EA8FF" width="30" height="30" alt="WhatsApp"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-The visual identity should communicate:
+<a href="https://github.com/abdulrahman0328" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" height="30" alt="GitHub"/>
+</a>
 
-* Junior Data Analyst
-* Excel
-* Power BI
-* SQL
-* Financial Analysis
-* Data Visualization
-* Business Intelligence
-* Charts
-* KPIs
-* Tables
-* Numbers
-* Analytical thinking
+<br/>
+<br/>
 
-Design language:
+<!-- ========================================================= -->
+<!-- INTERNAL NAVIGATION -->
+<!-- ========================================================= -->
 
-* Modern
-* Minimal
-* Professional
-* Clean
-* Technical
-* Data-driven
-* Premium
-* Subtle
-* Not childish
-* Not overly colorful
-* No old-fashioned badge-wall appearance
+<a href="#about">About</a>
+&nbsp;·&nbsp;
+<a href="#skills">Skills</a>
+&nbsp;·&nbsp;
+<a href="#learning-journey">Learning Journey</a>
+&nbsp;·&nbsp;
+<a href="#projects">Projects</a>
+&nbsp;·&nbsp;
+<a href="#experience">Experience</a>
+&nbsp;·&nbsp;
+<a href="#education--certifications">Education</a>
 
-Primary visual direction:
+<br/>
+<br/>
 
-**Deep navy + modern blue + subtle gold accent**
-
-Avoid excessive yellow.
-
-The previous blue/yellow rectangular blocks looked old-fashioned.
-
-Replace that entire visual language with:
-
-* soft rounded containers
-* subtle separators
-* clean typography
-* visual hierarchy
-* small analytical symbols
-* chart-inspired elements
-* thin lines
-* subtle data-grid motifs
-* modern iconography
-* restrained animation
-
----
-
-# 2. HERO SECTION — COMPLETE REDESIGN
-
-Redesign the Hero completely.
-
-The Hero should contain:
-
-### Main name
-
-**ABDULRAHMAN MUHAMMAD**
-
-### Subtitle
-
-**Junior Data Analyst**
-
-### Animated sentence
-
-Keep ONE subtle animated text line underneath.
-
-However, DO NOT use a generic workflow such as:
-
-Clean → Analyze → Visualize → Explain
-
-Instead, rotate through short data-analysis quotes / principles.
-
-Examples:
-
-> "Good analysis turns numbers into decisions."
-
-> "Data tells the story. Analysis gives it meaning."
-
-> "Behind every number is a business question."
-
-> "Turn data into insight. Turn insight into action."
-
-> "Numbers become powerful when they answer the right question."
-
-The animation must be:
-
-* subtle
-* slow
-* professional
-* readable
-* not distracting
-* not continuously flashing
-
-Use approximately 3–5 phrases.
-
-If GitHub-compatible animation cannot be achieved cleanly, prioritize readability over animation.
+</div>
 
 ---
 
-# 3. HERO BACKGROUND
+# About
 
-The Hero background should visually suggest the profession of Data Analysis.
+I'm a **Junior Data Analyst** with a **Commerce & Accounting background**, building my career around the intersection of **data analysis, business thinking, and financial understanding**.
 
-Do NOT use a generic gradient banner.
+My approach is simple:
 
-Do NOT use an old-fashioned blue/yellow rectangular graphic.
+> **Understand the business question → prepare the data → analyze the numbers → visualize the story → communicate the insight.**
 
-Instead create a subtle analytical visual atmosphere containing elements such as:
+My current toolkit is centered around:
 
-* line chart
-* bar chart
-* small KPI cards
-* data points
-* grid lines
-* percentages
-* numbers
-* trend arrows
-* spreadsheet-like cells
-* small SQL/data symbols
-* analytical nodes
+**Excel · Power BI · SQL**
 
-The visual should remain subtle behind the name.
+with growing experience in:
 
-It must NOT make the text difficult to read.
+**Power Query · Power Pivot · DAX · Data Visualization · Financial Analysis**
 
-Think:
+My accounting background gives me a strong foundation in understanding financial information, accuracy, structured reporting, and business performance — while my data journey is helping me turn that foundation into practical analytical work.
 
-**"Modern analytics dashboard transformed into a GitHub Hero."**
+I enjoy building dashboards, cleaning and transforming data, exploring business questions, and creating reporting solutions that make information easier to understand and act upon.
 
----
+<br/>
 
-# 4. IMPORTANT — DO NOT MAKE THE HERO IMAGE A LINK
+<div align="center">
 
-The previous design linked the entire Hero/name to the portfolio.
+### My Direction
 
-Change this.
+**Accounting**
+→
+**Financial Thinking**
+→
+**Data Analysis**
+→
+**Business Intelligence**
+→
+**Business Insights**
 
-The name and Hero visual should NOT behave like a large clickable image.
+</div>
 
-Instead create a dedicated row of icon-only navigation/contact items.
+<br/>
 
-The Hero itself should remain visually clean.
+<div align="center">
 
----
+| 🎓 Background | 📊 Focus | 💡 Approach | 🚀 Direction |
+|:---:|:---:|:---:|:---:|
+| Commerce & Accounting | Data Analysis | Business Thinking | Junior Data Analyst |
 
-# 5. CONTACT / SOCIAL LINKS — ICON ONLY
-
-Immediately under the Hero, create a compact icon-only navigation row.
-
-NO text labels.
-
-NO:
-
-LinkedIn
-Email
-WhatsApp
-Portfolio
-
-Only recognizable icons.
-
-Required icons:
-
-* Portfolio
-* LinkedIn
-* Email
-* WhatsApp
-* GitHub
-
-Each icon should have:
-
-* medium size
-* clear visual identity
-* enough spacing
-* subtle hover behavior where GitHub supports it
-* `title` attribute for accessibility/tooltips
-
-Examples:
-
-`title="Portfolio"`
-
-`title="LinkedIn"`
-
-`title="Email"`
-
-`title="WhatsApp"`
-
-`title="GitHub"`
-
-Click behavior:
-
-* Portfolio → https://abdodatanerd.figma.site/
-* LinkedIn → existing LinkedIn URL
-* Email → mailto link
-* WhatsApp → existing WhatsApp URL
-* GitHub → GitHub profile
-
-IMPORTANT:
-
-The icon image itself must NOT link to the raw image file.
-
-Never use:
-
-`<a href="image-url"><img ...></a>`
-
-unless the destination is intentionally a website.
-
-Use the actual icon as the visual element and make its surrounding anchor point to the intended destination.
+</div>
 
 ---
 
-# 6. NAVIGATION
+# Skills
 
-Keep a small navigation system below the contact icons.
+<div align="center">
 
-Use simple text links:
+## Core Skills
 
-**About · Skills · Projects · Experience · Education**
+<a href="#excel" title="Microsoft Excel">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="52" height="52" alt="Excel"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Do not make them huge buttons.
+<a href="#power-bi" title="Microsoft Power BI">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="52" height="52" alt="Power BI"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Use GitHub internal anchors wherever possible.
+<a href="#sql" title="SQL">
+  <img src="https://cdn.simpleicons.org/mysql/5EA8FF" width="52" height="52" alt="SQL"/>
+</a>
 
-The README should feel like a small website.
+<br/>
+<br/>
 
----
+## Growing Skills
 
-# 7. ABOUT — MAKE IT MUCH STRONGER
+<a href="#power-query" title="Power Query">
+  <img src="https://cdn.simpleicons.org/microsoft/5EA8FF" width="45" height="45" alt="Power Query"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-The current About section is too generic.
+<a href="#power-pivot" title="Power Pivot">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/5EA8FF" width="45" height="45" alt="Power Pivot"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Rewrite and redesign it based on the information represented in my portfolio website:
+<a href="#dax" title="DAX">
+  <img src="https://cdn.simpleicons.org/powerbi/5EA8FF" width="45" height="45" alt="DAX"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-https://abdodatanerd.figma.site/
+<a href="#data-visualization" title="Data Visualization">
+  <img src="https://cdn.simpleicons.org/chartdotjs/5EA8FF" width="45" height="45" alt="Data Visualization"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Position me clearly as:
+<a href="#financial-analysis" title="Financial Analysis">
+  <img src="https://cdn.simpleicons.org/googleanalytics/F5B942" width="45" height="45" alt="Financial Analysis"/>
+</a>
 
-**Junior Data Analyst with a Commerce & Accounting background.**
+<br/>
+<br/>
 
-The About section should communicate:
+## Planned
 
-* Beni-Suef University
-* Commerce / Accounting background
-* analytical mindset
-* Excel
-* Power BI
-* SQL
-* financial/business thinking
-* dashboard development
-* data cleaning
-* reporting
-* turning raw data into useful insights
-* current learning journey
+<a href="#planned-skills" title="Planned Skill — Part of my upcoming learning roadmap.">
+  <img src="https://cdn.simpleicons.org/python/5C6773" width="45" height="45" alt="Python — Planned"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-Do NOT make it sound like I am a senior analyst.
+<a href="#planned-skills" title="Planned Skill — Part of my upcoming learning roadmap.">
+  <img src="https://cdn.simpleicons.org/tableau/5C6773" width="45" height="45" alt="Tableau — Planned"/>
+</a>
 
-Keep the positioning honest:
+<br/>
 
-**Junior Data Analyst**
+<sub>Current skills are represented normally · Planned skills are intentionally muted</sub>
 
-The writing should feel confident but realistic.
-
----
-
-# 8. ABOUT — MODERN VISUAL STRUCTURE
-
-Instead of the old three-column table:
-
-B.Com | 1st Rank | Career Focus
-
-create a more modern compact structure.
-
-For example:
-
-### Analytical Background
-
-Accounting → Financial Thinking → Data Analysis → Business Insights
-
-And a small set of modern stat-style elements:
-
-🎓 Commerce & Accounting
-
-📊 Data Analysis
-
-💼 Business / Financial Perspective
-
-🚀 Junior Data Analyst
-
-Use simple symbols/icons rather than giant colored boxes.
+</div>
 
 ---
 
-# 9. SKILLS — MAJOR REDESIGN
+# Learning Journey
 
-This is one of the most important changes.
-
-Do NOT use large Shields.io badges for every skill.
-
-The current badge-based system looks too generic.
-
-Instead create a **modern icon grid**.
-
-Each skill should primarily be represented by:
-
-**ICON ONLY**
-
-Icons should be medium-sized and clearly visible.
-
-Suggested skills:
-
-### Core Skills
-
-* Microsoft Excel
-* Power BI
-* SQL
-
-### Growing Skills
-
-* Power Query
-* Power Pivot
-* DAX
-* Data Cleaning
-* Data Visualization
-* Financial Analysis
-
-### Planned Skills
-
-* Python
-* Tableau
+This section explains **how each skill fits into my journey**, what I have practiced, the learning resources behind it, and the projects where I apply it.
 
 ---
 
-# 10. SKILL ICON SIZE
+<a id="excel"></a>
 
-Icons should NOT be tiny.
+## 📊 Microsoft Excel
 
-Target a visually comfortable medium size.
+**Foundation → Analysis → Dashboards → Automation**
 
-They should be clearly recognizable without overwhelming the README.
+Excel was one of the foundations of my transition from accounting into data analysis.
 
-Think:
+My learning path includes:
 
-**portfolio interface icon**
+- Advanced formulas
+- XLOOKUP
+- SUMIFS / COUNTIFS
+- INDEX / MATCH
+- Dynamic Arrays
+- FILTER / SORT / UNIQUE
+- Data Validation
+- Excel Tables
+- Dashboard Design
+- Data Analysis
+- Reporting
+- VBA Automation
 
-not:
+I also completed **Microsoft Office Specialist (MOS)** training and have applied Excel practically through dashboard and freelance automation projects.
 
-**tiny GitHub badge**
+### Projects using Excel
 
-and not:
+- **Data Science Salary Dashboard**
+- **BM Company Sales Dashboard**
+- **Dynamic Financial Reports**
+- **Excel / VBA Automation Projects**
 
-**huge app logo**
-
----
-
-# 11. SKILL HOVER
-
-Every skill icon must have a tooltip.
-
-For example:
-
-Excel icon:
-
-`title="Microsoft Excel"`
-
-Power BI:
-
-`title="Microsoft Power BI"`
-
-SQL:
-
-`title="SQL"`
-
-DAX:
-
-`title="DAX"`
-
-etc.
-
-For Planned Skills:
-
-`title="Planned Skill — Part of my upcoming learning roadmap."`
-
-Do not rely on visible text beside the icons.
-
-The icon should communicate the skill visually.
+**Main idea:**  
+I use Excel not only for entering data, but for **structuring, validating, analyzing, automating, and presenting information**.
 
 ---
 
-# 12. SKILLS MUST BE CLICKABLE
+<a id="power-bi"></a>
 
-This is extremely important.
+## 📈 Microsoft Power BI
 
-Each skill icon should link to a dedicated section further down in the README.
+**Data Transformation → Modeling → DAX → Reporting**
 
-Example:
+Power BI is an important part of my transition toward Business Intelligence and professional data reporting.
 
-Excel icon:
+My current learning path includes:
 
-`href="#excel"`
+- Power Query
+- Data Transformation
+- Data Modeling
+- DAX
+- Measures
+- KPIs
+- Interactive Reports
+- Drill-through
+- Business Questions
+- Dashboard Design
 
-Power BI:
+### Main Project
 
-`href="#power-bi"`
+**Data Job Market Dashboard**
 
-SQL:
+A Power BI project exploring:
 
-`href="#sql"`
+- Job demand
+- Median salary
+- Job trends
+- Employment types
+- Job platforms
+- Remote work
+- Degree requirements
+- Global job-market patterns
 
-etc.
-
-Clicking the skill must NOT open the icon/image.
-
-It must navigate to the corresponding skill story inside the same README.
-
----
-
-# 13. SKILL JOURNEY SECTIONS
-
-After the main Skills grid, create a section:
-
-# My Learning Journey
-
-Each major skill should have its own compact subsection.
-
-Example:
-
-## Excel
-
-**Learning path**
-
-Explain briefly how I developed the skill.
-
-Mention:
-
-* Microsoft Office Specialist / MOS
-* Excel formulas
-* lookup functions
-* dynamic arrays
-* dashboards
-* data validation
-* automation
-* VBA
-* practical freelance projects
-
-Mention relevant projects.
-
-For example:
-
-* Data Science Salary Dashboard
-* BM Company Sales Dashboard
-* Dynamic Financial Reports
-* Excel/VBA freelance automation projects
+**Tools:** Power BI · DAX · Power Query · Excel
 
 ---
 
-# 14. POWER BI JOURNEY
+<a id="sql"></a>
 
-Create:
+## 🗄️ SQL
 
-## Power BI
+**Querying → Aggregation → Joins → Analytical SQL**
 
-Explain the learning path around:
+SQL is part of my current data-analysis learning journey.
 
-* Power BI
-* Power Query
-* data transformation
-* data modeling
-* DAX
-* dashboard design
-* business questions
-* KPI reporting
+The learning path includes:
 
-Mention the Data Job Market Dashboard project.
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- DISTINCT
+- TOP
+- DDL
+- CREATE / ALTER / DROP
+- JOINs
+- Set Operations
+- Functions
+- Aggregate Functions
+- Window Functions
 
-Keep the wording realistic because this is an early-stage Power BI journey.
+My SQL learning is focused on understanding how to move from raw relational data toward **business questions and analytical insights**.
 
----
+### Learning Resource
 
-# 15. SQL JOURNEY
+**Data With Baraa**
 
-Create:
+The goal is not simply to memorize SQL syntax, but to become comfortable with:
 
-## SQL
-
-Explain the learning path.
-
-Include concepts such as:
-
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* DISTINCT
-* TOP
-* DDL
-* JOINs
-* Set Operations
-* Functions
-* Aggregate Functions
-* Window Functions
-
-Mention that SQL is part of the current learning journey.
-
-Do NOT pretend SQL is already an advanced professional skill if it is still being developed.
+**Question → Query → Result → Interpretation**
 
 ---
 
-# 16. POWER QUERY / DAX / OTHER SKILLS
+<a id="power-query"></a>
 
-Where appropriate, create compact learning journey entries for:
+## 🔄 Power Query
 
-* Power Query
-* Power Pivot
-* DAX
-* Data Visualization
-* Financial Analysis
+Power Query is part of my growing toolkit for preparing data before analysis.
 
-Each entry should explain:
+Current focus:
 
-1. What I learned
-2. Why it matters
-3. What I am currently practicing
-4. Which project demonstrates it
-5. What comes next
-
-Keep each entry concise.
+- Data cleaning
+- Transformation
+- Append
+- Merge
+- Data types
+- Reusable transformation steps
+- Preparing structured datasets for Power BI and Excel
 
 ---
 
-# 17. "WHO TAUGHT ME" INFORMATION
+<a id="power-pivot"></a>
 
-Where relevant, mention learning sources honestly.
+## 🧮 Power Pivot
 
-For example:
+Power Pivot is part of my roadmap toward stronger data modeling.
 
-* Data With Baraa / Baraa for SQL learning
-* Luke Barousse for the Data Science Salary Dashboard learning/project inspiration
-* Microsoft / practical project work for Microsoft tools
-* other actual learning resources already represented in my profile
+Current focus:
 
-DO NOT invent teachers, certifications, courses, or achievements.
-
-If the exact teacher/source is not known from the existing README, leave it out rather than guessing.
+- Data Models
+- Relationships
+- Measures
+- Analytical structures
+- Connecting multiple tables
 
 ---
 
-# 18. PLANNED SKILLS
+<a id="dax"></a>
 
-Python and Tableau should remain visibly different from current skills.
+## 📐 DAX
 
-They should be:
+DAX is being developed alongside my Power BI journey.
 
-* faded
-* muted
-* lower contrast
-* visually secondary
+Current focus:
 
-But still recognizable.
+- Measures
+- Calculations
+- Filter context
+- Business KPIs
+- Analytical calculations
 
-Hover tooltip:
+The goal is to move beyond simply displaying data toward **building meaningful analytical metrics**.
+
+---
+
+<a id="data-visualization"></a>
+
+## 📊 Data Visualization
+
+My visualization approach is based on one principle:
+
+> **A dashboard should answer a question, not simply display numbers.**
+
+I focus on:
+
+- KPI design
+- Clear layouts
+- Filtering
+- Comparisons
+- Trends
+- Business context
+- Visual hierarchy
+- Decision-oriented reporting
+
+---
+
+<a id="financial-analysis"></a>
+
+## 💹 Financial Analysis
+
+My Commerce & Accounting background naturally connects with my interest in financial and business analysis.
+
+This includes:
+
+- Financial statements
+- Revenue analysis
+- Expense analysis
+- Business KPIs
+- Reporting
+- Financial data interpretation
+- Connecting financial information with business performance
+
+This is an area where I aim to combine my **accounting foundation with data analytics**.
+
+---
+
+<a id="planned-skills"></a>
+
+## 🚧 Planned Skills
+
+### 🐍 Python
 
 **Planned Skill — Part of my upcoming learning roadmap.**
 
-Do NOT write "Coming Soon".
+The future goal is to expand my analytical toolkit into:
 
-Use:
-
-**Planned**
-
-The user should immediately understand these are future learning targets, not completed skills.
-
----
-
-# 19. PROJECTS — MODERN CARDS
-
-Redesign Projects completely.
-
-Do not use the previous old-fashioned table-card style.
-
-Create modern GitHub-compatible project cards using:
-
-* rounded visual hierarchy
-* small icons
-* concise description
-* tools
-* business question
-* key result / purpose
-* repository button
-
-Avoid huge paragraphs.
+- Python fundamentals
+- pandas
+- Data Cleaning
+- Data Analysis
+- Automation
+- Exploratory Data Analysis
 
 ---
 
-# 20. GITHUB PROJECTS VS FREELANCE PROJECTS
+### 📊 Tableau
 
-Keep these completely separate.
+**Planned Skill — Part of my upcoming learning roadmap.**
+
+The future goal is to gain additional experience in:
+
+- Visualization
+- Dashboard Design
+- Storytelling
+- Business Intelligence
+
+---
+
+# Projects
+
+A selection of projects focused on **data analysis, dashboards, reporting, and practical business questions**.
+
+---
 
 ## GitHub Projects
 
-Only projects that actually have GitHub repositories.
+<div align="center">
 
-Currently:
+### 📊 Data Science Salary Dashboard
 
-### Data Science Salary Dashboard
+**32,672 job postings · Excel · Data Analysis · Dashboard**
 
-Repository:
+An interactive Excel dashboard analyzing the data-science job market across:
 
-https://github.com/abdulrahman0328/data-science-salary-dashboard
+- Salaries
+- Job titles
+- Countries
+- Employment types
+- Job platforms
 
-Use the verified project information:
+The project uses Excel Tables, dynamic arrays, lookup functions, data validation, interactive charts, and dashboard design.
 
-* Excel
-* 32,672 job postings
-* salary analysis
-* job titles
-* countries
-* employment types
-* job platforms
-* dynamic arrays
-* interactive dashboard
+<br/>
 
----
+<a href="https://github.com/abdulrahman0328/data-science-salary-dashboard">
+  <img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white&labelColor=07111F" alt="View Data Science Salary Dashboard repository"/>
+</a>
 
-### Data Job Market Dashboard
-
-Repository:
-
-https://github.com/abdulrahman0328/powerbi-data-job-market-dashboard
-
-Use the verified information:
-
-* Power BI
-* DAX
-* Power Query
-* Excel
-* job count
-* median salary
-* job trends
-* job platforms
-* global job market
-* employment types
-* remote work
-* degree requirements
-* drill-through
-
-Do NOT invent additional repositories.
+<br/>
+<br/>
 
 ---
 
-# 21. FREELANCE PROJECTS
+### 📈 Data Job Market Dashboard
 
-Create a separate:
+**Power BI · DAX · Power Query · Excel**
 
-## Freelance Projects
+A Power BI reporting project exploring the global data-job market.
 
-This section represents Mostaql / independent freelance work.
+The dashboard addresses questions around:
 
-Keep it independent from GitHub.
+- Job demand
+- Median salary
+- Job trends
+- Employment types
+- Job platforms
+- Remote work
+- Degree requirements
+- Global job distribution
 
-Potential projects:
+<br/>
 
-* Excel/VBA Financial Reporting Automation
-* Social Reporting / Data Management Tool
-* BM Company Sales Dashboard
-* other verified Mostaql projects
+<a href="https://github.com/abdulrahman0328/powerbi-data-job-market-dashboard">
+  <img src="https://img.shields.io/badge/View%20Repository-2F80ED?style=flat-square&logo=github&logoColor=white&labelColor=07111F" alt="View Power BI Data Job Market Dashboard repository"/>
+</a>
 
-Clearly label:
+</div>
+
+---
+
+# Freelance Projects
 
 **Independent Freelance Work**
 
-Do not make freelance projects appear to be GitHub repositories.
+These projects represent practical work completed through freelance activity and are kept separate from my public GitHub repositories.
 
 ---
 
-# 22. EXPERIENCE — REDESIGN COMPLETELY
+### ⚙️ Excel / VBA Financial Reporting Automation
 
-The current Experience section is too basic.
+A structured Excel solution for recording and analyzing financial transactions.
 
-Replace the three-column boxes with a modern timeline.
+Focus areas:
 
-Visual concept:
+- Data entry
+- Validation
+- Income / expense tracking
+- Search and filtering
+- Automated data transfer
+- Summary reporting
+- VBA automation
 
-```
-●
-│
-├── Freelance Data Analyst
-│   Mostaql
-│   Excel · Power BI · Dashboards · Reporting
-│
-●
-│
-├── Banking Trainee
-│   CIB
-│   Banking / Data Literacy
-│
-●
-│
-└── B.Com — Accounting
-    Beni-Suef University
-```
-
-But make it visually modern.
-
-Use:
-
-* vertical timeline
-* subtle line
-* circular nodes
-* small icons
-* dates where verified
-* short descriptions
-* technologies
-* outcomes / responsibilities
-
-Avoid large colored rectangles.
+**Tools:** Excel · VBA · Formulas · Data Validation
 
 ---
 
-# 23. EDUCATION & CERTIFICATIONS — TIMELINE
+### 👥 Social Reporting & Data Management Tool
 
-This should be inspired by the Education & Certifications section on my portfolio website.
+An Excel/VBA-based data-management solution designed around structured social reporting.
 
-Create a modern timeline section:
+Focus areas:
+
+- Structured data entry
+- Personal-number based search
+- Data retrieval
+- Database transfer
+- Payment information
+- Family information
+- Automated workflows
+
+**Tools:** Excel · VBA · Data Management
+
+---
+
+### 🚗 BM Company Sales Dashboard
+
+A large sales-analysis project containing **50,000+ records**.
+
+The analysis explores:
+
+- Sales volume
+- Price
+- Vehicle model
+- Region
+- Fuel type
+- Transmission
+- Engine size
+- Mileage
+- Sales classification
+- Yearly performance
+
+**Tools:** Excel · Data Analysis · Dashboarding
+
+---
+
+### 💹 Dynamic Financial Reports
+
+Excel-based reporting work focused on:
+
+- Financial tracking
+- Structured reporting
+- Automated calculations
+- Search
+- Filtering
+- Business summaries
+
+**Tools:** Excel · VBA · Financial Analysis
+
+<br/>
+
+<div align="center">
+
+<a href="https://mostaql.com/u/Abdulrahman677/portfolio">
+  <img src="https://img.shields.io/badge/View%20Freelance%20Portfolio-12386B?style=flat-square&logoColor=white&labelColor=07111F" alt="View freelance portfolio"/>
+</a>
+
+</div>
+
+---
+
+# Experience
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="47%" valign="top">
+
+### 💼 Freelance Data Analyst
+
+**Mostaql**
+
+Independent freelance work focused on practical Excel and data-analysis solutions.
+
+**Focus**
+
+Excel · Power BI · Dashboards · Reporting · VBA
+
+</td>
+
+<td width="6%" align="center">
+
+**●**
+
+<br/>
+│
+<br/>
+**●**
+
+</td>
+
+<td width="47%" valign="top">
+
+### 🏦 Banking Trainee
+
+**CIB**
+
+Training focused on banking data literacy, data interpretation, and reporting concepts.
+
+**Focus**
+
+Banking Data · Data Literacy · Reporting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="47%" valign="top">
+
+### 🎓 B.Com — Accounting
+
+**Beni-Suef University**
+
+Commerce — English Section
+
+Accounting specialization with a strong foundation in financial and business concepts.
+
+</td>
+
+<td width="6%" align="center">
+
+**●**
+
+<br/>
+│
+<br/>
+**●**
+
+</td>
+
+<td width="47%" valign="top">
+
+### 📊 Data Analysis Learning Journey
+
+**Continuous Development**
+
+Building practical skills through courses, projects, dashboards, and real datasets.
+
+**Focus**
+
+Excel → Power BI → SQL → Business Intelligence
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
 
 # Education & Certifications
 
-Possible entries, using ONLY verified information:
+<div align="center">
 
-### Beni-Suef University
+### A track record of continuous learning and professional development
 
-**B.Com — Commerce, English Section — Accounting**
+<br/>
 
-Include verified academic achievement information.
+<table>
+<tr>
 
-### Microsoft Office Specialist
+<td width="46%" valign="top">
 
-Include the verified MOS achievement and relevant Office tools.
+### 🏅 Microsoft Office Specialist (MOS)
 
-### CIB Training
+**Certification · 2024**
 
-Include the verified training information.
+**Microsoft**
 
-### SQL / Data Analysis Learning
+Certified in Microsoft Office applications with advanced skills in **Excel, Word, and PowerPoint** for data analysis, reporting, and professional document creation.
 
-Only include this as learning progress if appropriate — do NOT present ongoing learning as a completed certification.
+</td>
 
-The timeline should visually distinguish:
+<td width="8%" align="center">
 
-* Education
-* Certification
-* Training
-* Learning
+**●**
+<br/>
+│
+<br/>
+**●**
 
-Use small category labels/icons.
+</td>
+
+<td width="46%" valign="top">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="46%" valign="top">
+
+</td>
+
+<td width="8%" align="center">
+
+│
+<br/>
+**●**
+<br/>
+│
+
+</td>
+
+<td width="46%" valign="top">
+
+### 🏦 Banking Data Literacy & Analytics Training
+
+**Training · 2025**
+
+**CIB Bank**
+
+Training focused on banking data analysis, data interpretation, and reporting to support decision-making and improve operational processes.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="46%" valign="top">
+
+### 🎓 Bachelor of Commerce (B.Com.) — Accounting
+
+**Education · 2025**
+
+**Beni-Suef University — Faculty of Commerce**
+
+English Section
+
+Focused on financial accounting, auditing, taxation, corporate finance, and managerial accounting, with strong analytical and business foundations.
+
+</td>
+
+<td width="8%" align="center">
+
+**●**
+<br/>
+│
+<br/>
+**●**
+
+</td>
+
+<td width="46%" valign="top">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="46%" valign="top">
+
+</td>
+
+<td width="8%" align="center">
+
+│
+<br/>
+**●**
+<br/>
+│
+
+</td>
+
+<td width="46%" valign="top">
+
+### 📊 Excel for Data Analytics
+
+**Certification · 2025**
+
+**Luke Barousse**
+
+Training focused on advanced Excel techniques for data analysis, dashboard design, data visualization, and interactive reporting using real-world datasets.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 24. GITHUB LINKS FOR EDUCATION / CERTIFICATIONS
+# Currently Building
 
-Where an education/certification entry has a related GitHub project, learning note, repository, or documented work, provide a small:
+<div align="center">
 
-**View project →**
+**SQL** · **Power Query** · **Power Pivot** · **DAX**
 
-or
+<br/>
 
-**View work →**
+<sub>
+Strengthening my analytical foundation and moving toward more advanced Business Intelligence workflows.
+</sub>
 
-link.
+<br/>
+<br/>
 
-But do NOT create fake links.
+**Next on the roadmap**
 
-If no GitHub resource exists, simply omit the GitHub link.
+<br/>
 
-Do not link images to blank pages.
+`Python` · `Tableau`
 
----
-
-# 25. MODERN DATA VISUAL ELEMENTS
-
-Replace the old blue/yellow blocks throughout the README.
-
-Introduce subtle visual motifs such as:
-
-* mini line charts
-* analytical arrows
-* KPI symbols
-* grid patterns
-* data points
-* tiny bar-chart icons
-* database symbols
-* spreadsheet cells
-* SQL symbols
-* dashboard-like separators
-
-The visual language should feel inspired by:
-
-**Power BI + Excel + SQL + Business Intelligence**
-
-rather than a generic developer profile.
+</div>
 
 ---
 
-# 26. IMPORTANT — IMAGE / ICON IMPLEMENTATION
+# My Analytics Workflow
 
-This is critical.
+<div align="center">
 
-Do NOT make decorative images behave like external image links.
-
-Avoid situations where clicking an image opens:
-
-* raw SVG
-* blank image page
-* image URL
-* external image viewer
-
-Decorative graphics should NOT be clickable.
-
-If an icon must be clickable, the anchor must point to:
-
-* an actual website
-* a real GitHub repository
-* an internal README anchor
-
-Never the image itself.
-
----
-
-# 27. PREFER LOCAL / INLINE ASSETS
-
-Where possible, prefer:
-
-1. Inline HTML/SVG that GitHub can safely render
-2. Local SVG assets stored inside the repository
-3. Stable icon assets
-4. External image services only when necessary
-
-Do NOT depend on decorative external image URLs when the same visual can be created with repository assets.
-
-If creating local SVG assets is necessary, structure them cleanly in a folder such as:
-
-`assets/`
-
-Example:
-
-`assets/icons/`
-
-`assets/hero/`
-
-`assets/charts/`
-
-Then embed those assets in the README.
-
-Important:
-
-The README should embed the image.
-
-The image itself should NOT become the destination of the hyperlink.
-
----
-
-# 28. GITHUB COMPATIBILITY
-
-This is mandatory.
-
-The README must render correctly on GitHub.
-
-Do NOT introduce:
-
-* JavaScript
-* unsupported CSS
-* complex scripts
-* React
-* CSS animations that GitHub strips
-* unsupported interactive components
-
-Do not promise browser-level hover animations if GitHub cannot support them.
-
-Use GitHub-compatible HTML attributes such as:
-
-`title`
-
-for tooltips.
-
-Use internal anchors for navigation.
-
-Use subtle supported visual techniques.
-
----
-
-# 29. NO BADGES WALL
-
-Strongly reduce Shields.io usage.
-
-Do NOT create a wall of:
-
-Excel badge
-Power BI badge
-SQL badge
-DAX badge
-Python badge
-Tableau badge
-etc.
-
-The profile should visually resemble a modern portfolio.
-
-Icons first.
-
-Information second.
-
-Badges only where genuinely useful.
-
----
-
-# 30. FOOTER
-
-Create a minimal footer.
-
-Something like:
-
-**Junior Data Analyst**
-
-`Excel · Power BI · SQL · Financial Analysis`
-
-Then icon-only contact links again.
-
-No giant footer graphic.
-
-No old blue/yellow banner.
-
----
-
-# 31. FINAL INFORMATION ARCHITECTURE
-
-The README should approximately follow:
-
-Hero
+**QUESTION**
 
 ↓
-Icon-only Contact / Social Navigation
+
+**DATA**
 
 ↓
-Internal Navigation
+
+**CLEAN**
 
 ↓
-About
+
+**ANALYZE**
 
 ↓
-Skills — Icon Grid
+
+**VISUALIZE**
 
 ↓
-My Learning Journey
+
+**INSIGHT**
 
 ↓
-Projects
 
-GitHub Projects
+**DECISION**
 
-Freelance Projects
-
-↓
-Experience — Timeline
-
-↓
-Education & Certifications — Timeline
-
-↓
-Currently Building
-
-↓
-Minimal Contact Footer
+</div>
 
 ---
 
-# 32. VISUAL HIERARCHY
+# Let's Connect
 
-Use whitespace aggressively.
+<div align="center">
 
-The page should breathe.
+<a href="https://abdodatanerd.figma.site/" title="Portfolio">
+  <img src="https://cdn.simpleicons.org/figma/5EA8FF" width="28" height="28" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-Avoid:
+<a href="https://www.linkedin.com/in/abdulrahman-m-2003march" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/5EA8FF" width="28" height="28" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-* crowded sections
-* giant headings
-* too many badges
-* excessive emojis
-* excessive colors
-* huge tables
-* old-fashioned cards
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com" title="Email">
+  <img src="https://cdn.simpleicons.org/gmail/5EA8FF" width="28" height="28" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-Use:
+<a href="https://wa.me/201140474679" title="WhatsApp">
+  <img src="https://cdn.simpleicons.org/whatsapp/5EA8FF" width="28" height="28" alt="WhatsApp"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-* whitespace
-* alignment
-* thin separators
-* iconography
-* typography
-* subtle analytical motifs
+<a href="https://github.com/abdulrahman0328" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub"/>
+</a>
 
----
+<br/>
+<br/>
 
-# 33. ANIMATION PHILOSOPHY
+<sub>
 
-Animation should feel like a dashboard loading smoothly.
+**Junior Data Analyst · Excel · Power BI · SQL · Financial Analysis**
 
-Not like a gaming website.
+</sub>
 
-Use only:
-
-* subtle Hero text animation
-* subtle animated data-inspired elements if GitHub safely supports them
-* gentle visual movement
-
-Avoid:
-
-* flashing
-* bouncing
-* aggressive typing
-* spinning logos
-* zoom effects
-* distracting GIFs
-
-If an animation harms GitHub compatibility, remove it.
-
----
-
-# 34. IMPORTANT FACTUAL RULE
-
-Do not invent:
-
-* certifications
-* companies
-* teachers
-* job experience
-* project statistics
-* repositories
-* technologies
-* dates
-* achievements
-
-Use information already present in my README, portfolio, or verified GitHub repositories.
-
-If information is uncertain, preserve the existing wording or omit it.
-
----
-
-# 35. FINAL QUALITY TEST
-
-Before returning the final README, verify:
-
-### Hero
-
-* Name is clear
-* Junior Data Analyst is immediately visible
-* Animated line contains meaningful data-analysis quotes
-* Hero does not itself act as one giant link
-* Background feels like Data Analytics
-
-### Contact
-
-* Portfolio icon
-* LinkedIn icon
-* Email icon
-* WhatsApp icon
-* GitHub icon
-* No visible labels
-* Tooltips work
-* No icon opens its raw image
-
-### Skills
-
-* Medium-sized icons
-* No badge wall
-* Hover reveals skill name
-* Planned skills are faded
-* Planned skill hover reveals roadmap message
-* Clicking a skill goes to its learning section
-
-### Learning Journey
-
-* Excel
-* Power BI
-* SQL
-* Power Query
-* DAX
-* relevant learning sources
-* related projects
-
-### Projects
-
-* GitHub projects separate
-* Freelance projects separate
-* modern visual cards
-* concise descriptions
-* actual repositories only
-
-### Experience
-
-* modern timeline
-* more informative than the current 3-column boxes
-
-### Education & Certifications
-
-* modern timeline
-* details
-* category distinction
-* real links only
-
-### Visual Design
-
-* modern
-* minimal
-* data-analysis inspired
-* no old blue/yellow rectangles
-* no giant badge wall
-* subtle motion
-* professional Junior Data Analyst identity
-
----
-
-# 36. MOST IMPORTANT DESIGN PRINCIPLE
-
-The final README should make a recruiter understand within approximately 10 seconds:
-
-**Who is Abdulrahman?**
-
-→ Junior Data Analyst
-
-**What does he work with?**
-
-→ Excel · Power BI · SQL
-
-**What is his edge?**
-
-→ Commerce & Accounting + Data Analysis
-
-**What has he built?**
-
-→ Dashboards + reporting + freelance automation
-
-**What is he learning next?**
-
-→ SQL / Power Query / DAX → Python / Tableau
-
-**Where can I see his work?**
-
-→ GitHub + Portfolio
-
-The README should answer these questions visually before the recruiter has to read every paragraph.
-
-Do not merely modify individual sections.
-
-**Redesign the entire README as one coherent modern Data Analyst portfolio interface.**
+</div>
