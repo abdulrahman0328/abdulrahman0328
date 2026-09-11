@@ -1,114 +1,126 @@
 <div align="center">
 
-<!-- HERO BANNER -->
 <a href="https://abdodatanerd.figma.site/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:12386B,70:2F80ED,100:F5B942&text=ABDULRAHMAN%20MUHAMMAD&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20FINANCIAL%20INTELLIGENCE%20%E2%80%A2%20DATA%20VISUALIZATION&descSize=14&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:07111F,50:12386B,100:2F80ED&text=ABDULRAHMAN%20MUHAMMAD&fontColor=FFFFFF&fontSize=32&fontAlignY=42&desc=Junior%20Data%20Analyst&descSize=16&descAlignY=68&descColor=F5B942" width="100%"/>
+</a>
+
+<a href="https://abdodatanerd.figma.site/">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=2400&pause=1400&color=5EA8FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+insights;Excel+%C2%B7+Power+BI+%C2%B7+SQL;Clean+%E2%86%92+Analyze+%E2%86%92+Visualize+%E2%86%92+Explain" />
 </a>
 
 <br/>
 
-<!-- ANIMATED TYPING TEXT -->
-<a href="https://abdodatanerd.figma.site/">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=5EA8FF&center=true&vCenter=true&width=850&lines=Assalamu+Alaikum!+I'm+Abdulrahman+Muhammad+%F0%9F%90%8B;Data+Analyst+%26+Financial+Intelligence+Specialist;Excel+%E2%80%A2+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Power+Query+%E2%80%A2+DAX;Transforming+Raw+Data+into+Actionable+Business+Insights" />
-</a>
+**[About](#about)** · **[Skills](#skills)** · **[Projects](#projects)** · **[Learning](#currently-learning)** · **[Contact](#contact)**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2F80ED,100:F5B942" width="60%"/>
+
+</div>
+
+<br/>
+
+## About
+
+Junior Data Analyst with a Commerce & Accounting background, currently building a foundation in **Excel, Power BI, and SQL**. I'm interested in the space where **data analysis meets financial thinking** — using numbers to explain what's actually happening in a business, not just to decorate a report.
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Com, Accounting (English Section) — Beni-Suef University |
+| 🏆 **Note** | Final-year topper, 1st rank, 94% |
+| 📍 **Status** | Open to Junior Data Analyst roles & freelance work |
+
+</div>
+
+<br/>
+
+## Skills
+
+<div align="center">
+
+**Excel · Power BI · SQL**
+
+<img src="https://img.shields.io/badge/Power_Query-07111F?style=flat-square&color=12386B&logoColor=F5B942"/>
+<img src="https://img.shields.io/badge/DAX-07111F?style=flat-square&color=12386B&logoColor=F5B942"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-07111F?style=flat-square&color=12386B&logoColor=F5B942"/>
+<img src="https://img.shields.io/badge/Data_Visualization-07111F?style=flat-square&color=12386B&logoColor=F5B942"/>
+<img src="https://img.shields.io/badge/Financial_Analysis-07111F?style=flat-square&color=12386B&logoColor=F5B942"/>
+
+</div>
+
+<br/>
+
+## Currently Learning
+
+<div align="center">
+
+**SQL → Power Query → Power Pivot / DAX → Advanced Data Analysis**
+
+</div>
+
+<br/>
+
+## Projects
+
+**📊 Data Science Salary Dashboard**
+Tools: Excel · Power Pivot · MEDIANIFS
+Interactive dashboard built on 32,600+ records, benchmarking salaries with executive KPI summaries.
+**Key metric:** 32,600+ records analyzed
+**[View project →](https://mostaql.com/portfolio/3116866-data-science-salary-dashboard)**
+
+---
+
+**📈 Job Market Analysis**
+Tools: Power BI · Power Query · DAX
+Global data-science job market report built with star-schema modeling and drill-through views.
+**[View project →](https://sites.google.com/view/abdu-datanerd/project-page/4)**
+
+---
+
+**💹 BM Company Sales Dashboard**
+Tools: Excel · Power Query
+Tracked profit margins and operational KPIs across 50,000+ sales records spanning 2010–2024.
+**Key metric:** 50,000+ records / 14 years of data
+**[View project →](https://sites.google.com/view/abdu-datanerd/project-page/5)**
+
+---
+
+**⚙️ Dynamic Financial Reports**
+Tools: Excel · Financial Modeling
+Financial models and profit-tracking dashboards built for recurring business reporting.
+**[View portfolio →](https://mostaql.com/u/Abdulrahman677/portfolio)**
+
+<br/>
+
+## Experience & Education
+
+<div align="center">
+
+| | |
+|---|---|
+| **Freelance Data Analyst** — Mostaql | Power BI dashboards & reporting models for clients |
+| **Banking Trainee** — CIB | Practical exposure to banking operations & financial reporting |
+| **B.Com, Accounting** — Beni-Suef University | Very Good with High Honors · final-year topper, 94% |
+
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F5B942,100:2F80ED" width="60%"/>
 
 <br/><br/>
 
-<!-- QUICK CONTACT BADGES -->
-<a href="https://abdodatanerd.figma.site/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-07111F?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:abdulrahmanmuhammad0328@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://wa.me/201140474679">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<a href="https://abdodatanerd.figma.site/"><img src="https://img.shields.io/badge/Portfolio-07111F?style=flat-square&color=12386B&logoColor=F5B942"/></a>
+<a href="https://www.linkedin.com/in/abdulrahman-muhammad-2003mar"><img src="https://img.shields.io/badge/LinkedIn-07111F?style=flat-square&color=12386B&logo=linkedin&logoColor=5EA8FF"/></a>
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-07111F?style=flat-square&color=12386B&logo=gmail&logoColor=5EA8FF"/></a>
+<a href="https://wa.me/201140474679"><img src="https://img.shields.io/badge/WhatsApp-07111F?style=flat-square&color=12386B&logo=whatsapp&logoColor=5EA8FF"/></a>
 
-</div>
+<br/><br/>
 
----
-
-### 👤 About Me
-
-> **Data Analyst** with a solid foundation in Business & Accounting (English Section), dedicated to turning complex data into clear interactive dashboards and actionable financial insights.
-
-| Attribute | Details |
-| :--- | :--- |
-| 🎓 **Education** | B.Com in Accounting (English Section) — **Very Good with High Honors** |
-| 🥇 **Academic Achievement** | **Final Year (Specialization Year) Topper:** Achieved **1st Rank** university-wide with **94%** |
-| 💼 **Experience** | 1+ Years in Data Analytics & Freelance Solutions |
-| 🌐 **Status** | Open for Data Analyst roles & Freelance Opportunities |
-
----
-
-### 🛠️ Skills & Tools
-
-<div align="center">
-
-| Area | Tools & Proficiencies |
-| :--- | :--- |
-| **Data Analytics & Visualization** | `Excel (Advanced)` `Power BI` `SQL` `Power Query` `DAX`  |
-| **Financial & Business Intelligence** | `Financial Analysis` `Financial Modeling` `KPI Design` `Data Storytelling` |
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data Science Salary Dashboard</h3>
-      <p><b>Tools:</b> Excel • Power Pivot • MEDIANIFS</p>
-      <p>Analyzed 32,600+ records to build an interactive dashboard delivering dynamic salary benchmarks and executive KPI summaries.</p>
-      <a href="https://mostaql.com/portfolio/3116866-data-science-salary-dashboard"><b>🔗 View Live Project</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Job Market Analysis</h3>
-      <p><b>Tools:</b> Power BI • Power Query • DAX</p>
-      <p>Designed a global Data Science market report using Star Schema data modeling and interactive drill-through views.</p>
-      <a href="https://sites.google.com/view/abdu-datanerd/project-page/4"><b>🔗 View Live Project</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💹 BM Company Sales Dashboard</h3>
-      <p><b>Tools:</b> Excel • Power Query</p>
-      <p>Processed 50,000+ sales records across 14 years (2010–2024) to track profit margins and key operational metrics.</p>
-      <a href="https://sites.google.com/view/abdu-datanerd/project-page/5"><b>🔗 View Live Project</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Dynamic Financial Reports</h3>
-      <p><b>Tools:</b> Excel • Financial Modeling</p>
-      <p>Developed financial models and profit tracking dashboards for accurate business reporting and KPI tracking.</p>
-      <a href="https://mostaql.com/u/Abdulrahman677/portfolio"><b>🔗 View Live Portfolio</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Experience & Education
-
-| Role / Degree | Institution | Key Highlights |
-| :--- | :--- | :--- |
-| **Freelance Data Analyst** | Mostaql Platform | Built customized Power BI dashboards & interactive reporting models. |
-| **Banking Trainee** | CIB Bank | Gained practical experience in banking operations & financial reporting. |
-| **Bachelor of Commerce** | Beni-Suef University | Major: Accounting (English) — **Very Good with High Honors**<br/>🏆 **Final Year Topper (1st Rank - 94%)** |
-
-</div>
-
----
-
-<div align="center">
-
-*"Data is only valuable when it drives action."*
-
-<b>Let's Connect & Collaborate!</b>
+<sub>Data is only useful once it's understood.</sub>
 
 </div>
