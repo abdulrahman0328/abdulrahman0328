@@ -64,16 +64,6 @@
 
 ---
 
-## Analytical Workflow
-
-<div align="center">
-
-<img src="assets/analytics-workflow.gif" alt="Animated workflow from raw data to business decisions" width="100%">
-
-<sub>Raw Data → Processing → Analysis → Business Insights → Decisions</sub>
-
-</div>
-
 ## About
 
 I'm a **Junior Data Analyst** with a **Commerce & Accounting background**, building my career around the intersection of **data analysis, business thinking, and financial understanding**.
@@ -202,22 +192,18 @@ A compact skill matrix keeps the main profile focused. **Click a skill to explor
 <tr>
 <td width="50%" valign="top">
 
-<span title="Not currently owned. Planned for future study and development.">
 <img src="assets/skill-icons/python.svg" width="44" align="left" alt="Python">
 <b>Python</b><br>
 <sub>Analysis · Automation · EDA</sub><br>
 <sub>○ Planned</sub>
-</span>
 
 </td>
 <td width="50%" valign="top">
 
-<span title="Not currently owned. Planned for future study and development.">
 <img src="assets/skill-icons/tableau.svg" width="44" align="left" alt="Tableau">
 <b>Tableau</b><br>
 <sub>Visualization · Storytelling · BI</sub><br>
 <sub>○ Planned</sub>
-</span>
 
 </td>
 </tr>
