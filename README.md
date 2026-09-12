@@ -64,6 +64,16 @@
 
 ---
 
+## Analytical Workflow
+
+<div align="center">
+
+<img src="assets/analytics-workflow.gif" alt="Animated workflow from raw data to business decisions" width="100%">
+
+<sub>Raw Data → Processing → Analysis → Business Insights → Decisions</sub>
+
+</div>
+
 ## About
 
 I'm a **Junior Data Analyst** with a **Commerce & Accounting background**, building my career around the intersection of **data analysis, business thinking, and financial understanding**.
