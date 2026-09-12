@@ -8,15 +8,13 @@
 
 *Turning Financial Data into Business Insights*
 
-`ACCOUNTING FOUNDATION` × `DATA ANALYTICS` × `BUSINESS THINKING`
+`ACCOUNTING FOUNDATION` | `DATA ANALYTICS` | `BUSINESS THINKING`
 
 <br>
 
 <a href="https://abdodatanerd.figma.site/">Portfolio</a>
 &nbsp;•&nbsp;
 <a href="https://www.linkedin.com/in/abdulrahman-m-2003march">LinkedIn</a>
-&nbsp;•&nbsp;
-<a href="https://github.com/abdulrahman0328">GitHub</a>
 &nbsp;•&nbsp;
 <a href="mailto:abdulrahmanmuhammad0328@gmail.com">Email</a>
 
@@ -84,18 +82,16 @@ My accounting foundation supports accuracy, structured reporting, financial inte
 
 ## Skills
 
-A compact skill matrix keeps the main profile focused. **Click a skill to explore its dedicated page.**
-
 ### Core
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 
 <a href="skills/excel.md">
 <img src="assets/skill-icons/excel.svg" width="44" align="left" alt="Microsoft Excel">
 <b>Microsoft Excel</b><br>
-<sub>Analysis · Dashboards · Automation</sub><br>
+<sub>Analysis · Dashboards · Advanced Formulas · Data Cleaning · Data Modeling · Power query ·Pivot Tables  </sub><br>
 <sub>● Core</sub>
 </a>
 
@@ -105,7 +101,7 @@ A compact skill matrix keeps the main profile focused. **Click a skill to explor
 <a href="skills/power-bi.md">
 <img src="assets/skill-icons/power-bi.svg" width="44" align="left" alt="Power BI">
 <b>Power BI</b><br>
-<sub>Reporting · DAX · Visualization</sub><br>
+<sub>Reporting · DAX · Visualization · Dashboards Building · Powerquery sub><br>
 <sub>● Core</sub>
 </a>
 
