@@ -1,0 +1,253 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" font-family="'JetBrains Mono','Fira Code',ui-monospace,Menlo,Consolas,monospace">
+<defs>
+  <style>
+    .c{fill:#6a9955}.k{fill:#569cd6}.v{fill:#9cdcfe}.n{fill:#b5cea8}.f{fill:#dcdcaa}.s{fill:#ce9178}.o{fill:#c9d1d9}.p{fill:#4ec9b0}.g{fill:#c586c0}.ln{fill:#484f58}
+  </style>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="55%" stop-color="#0b1a2e"/>
+    <stop offset="100%" stop-color="#0d2038"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="55%">
+    <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.18"/>
+    <stop offset="100%" stop-color="#1f6feb" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="cfade" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#0d1117" stop-opacity="0.98"/>
+    <stop offset="45%" stop-color="#0d1117" stop-opacity="0.85"/>
+    <stop offset="75%" stop-color="#0d1117" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="lg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="ng" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="70%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#90caf9"/>
+  </linearGradient>
+
+  <filter id="nglow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b">
+      <animate attributeName="stdDeviation" values="2;5;2" dur="4s" repeatCount="indefinite"/>
+    </feGaussianBlur>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <clipPath id="cs1"><rect x="410" y="246" width="0" height="34"><animate attributeName="width" values="0;380;380;0;0" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="cs2"><rect x="385" y="246" width="0" height="34"><animate attributeName="width" values="0;430;430;0;0" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="4s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="cs3"><rect x="425" y="246" width="0" height="34"><animate attributeName="width" values="0;350;350;0;0" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="8s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="440" fill="url(#bg)"/>
+<ellipse cx="600" cy="220" rx="600" ry="220" fill="url(#glow)"/>
+
+<!-- ============================== COLUMN 1 (SQL) ============================== -->
+<g opacity="0.5" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="45s" repeatCount="indefinite"/>
+  <g id="c1">
+    <text x="20" y="15"><tspan class="ln">01 </tspan><tspan class="c">-- data_jobs.sql</tspan></text>
+    <text x="20" y="35"><tspan class="ln">02 </tspan><tspan class="k">SELECT</tspan><tspan class="v"> job_title</tspan><tspan class="o">,</tspan></text>
+    <text x="20" y="55"><tspan class="ln">03 </tspan><tspan class="o">  </tspan><tspan class="f">MEDIAN</tspan><tspan class="o">(</tspan><tspan class="v">yearly_salary</tspan><tspan class="o">)</tspan></text>
+    <text x="20" y="75"><tspan class="ln">04 </tspan><tspan class="k">FROM</tspan><tspan class="v"> data_jobs</tspan></text>
+    <text x="20" y="95"><tspan class="ln">05 </tspan><tspan class="k">WHERE</tspan><tspan class="v"> year</tspan><tspan class="o"> = </tspan><tspan class="n">2024</tspan></text>
+    <text x="20" y="115"><tspan class="ln">06 </tspan><tspan class="k">GROUP BY</tspan><tspan class="v"> job_title</tspan></text>
+    <text x="20" y="135"><tspan class="ln">07 </tspan><tspan class="k">ORDER BY</tspan><tspan class="n"> 2</tspan><tspan class="k"> DESC</tspan><tspan class="o">;</tspan></text>
+    <text x="20" y="165"><tspan class="ln">08 </tspan><tspan class="c">-- KPI: median = $113K</tspan></text>
+    <text x="20" y="185"><tspan class="ln">09 </tspan><tspan class="c">-- rows = 479,000</tspan></text>
+    <text x="20" y="215"><tspan class="ln">10 </tspan><tspan class="k">SELECT</tspan><tspan class="v"> country</tspan><tspan class="o">,</tspan></text>
+    <text x="20" y="235"><tspan class="ln">11 </tspan><tspan class="o">  </tspan><tspan class="f">AVG</tspan><tspan class="o">(</tspan><tspan class="v">salary</tspan><tspan class="o">)</tspan></text>
+    <text x="20" y="255"><tspan class="ln">12 </tspan><tspan class="k">FROM</tspan><tspan class="v"> jobs</tspan></text>
+    <text x="20" y="275"><tspan class="ln">13 </tspan><tspan class="k">GROUP BY</tspan><tspan class="v"> country</tspan></text>
+    <text x="20" y="295"><tspan class="ln">14 </tspan><tspan class="k">HAVING</tspan><tspan class="f"> COUNT</tspan><tspan class="o">(*) &gt; </tspan><tspan class="n">100</tspan><tspan class="o">;</tspan></text>
+    <text x="20" y="325"><tspan class="ln">15 </tspan><tspan class="c">-- trend: Q4_recovery</tspan></text>
+    <text x="20" y="345"><tspan class="ln">16 </tspan><tspan class="c">-- YoY: +18.3%</tspan></text>
+    <text x="20" y="365"><tspan class="ln">17 </tspan><tspan class="c">-- analysis_ok</tspan></text>
+    <text x="20" y="385"><tspan class="ln">18 </tspan><tspan class="c">-- source: api</tspan></text>
+  </g>
+  <use href="#c1" y="400"/>
+</g>
+
+<!-- ============================== COLUMN 2 (DAX) ============================== -->
+<g opacity="0.5" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="55s" repeatCount="indefinite"/>
+  <g id="c2">
+    <text x="210" y="15"><tspan class="ln">01 </tspan><tspan class="c">-- measures.dax</tspan></text>
+    <text x="210" y="35"><tspan class="ln">02 </tspan><tspan class="v">Median Salary</tspan><tspan class="o"> =</tspan></text>
+    <text x="210" y="55"><tspan class="ln">03 </tspan><tspan class="o">  </tspan><tspan class="f">MEDIAN</tspan><tspan class="o">(</tspan><tspan class="v">Jobs</tspan><tspan class="o">[</tspan><tspan class="p">yearly_salary</tspan><tspan class="o">])</tspan></text>
+    <text x="210" y="85"><tspan class="ln">04 </tspan><tspan class="v">YoY Growth</tspan><tspan class="o"> =</tspan></text>
+    <text x="210" y="105"><tspan class="ln">05 </tspan><tspan class="o">  </tspan><tspan class="f">DIVIDE</tspan><tspan class="o">(</tspan></text>
+    <text x="210" y="125"><tspan class="ln">06 </tspan><tspan class="o">    [</tspan><tspan class="v">This Year</tspan><tspan class="o">],</tspan></text>
+    <text x="210" y="145"><tspan class="ln">07 </tspan><tspan class="o">    [</tspan><tspan class="v">Last Year</tspan><tspan class="o">]) </tspan><tspan class="o">- </tspan><tspan class="n">1</tspan></text>
+    <text x="210" y="175"><tspan class="ln">08 </tspan><tspan class="v">Profit Ratio</tspan><tspan class="o"> =</tspan></text>
+    <text x="210" y="195"><tspan class="ln">09 </tspan><tspan class="o">  </tspan><tspan class="f">DIVIDE</tspan><tspan class="o">([</tspan><tspan class="v">Profit</tspan><tspan class="o">],</tspan></text>
+    <text x="210" y="215"><tspan class="ln">10 </tspan><tspan class="o">    [</tspan><tspan class="v">Revenue</tspan><tspan class="o">])</tspan></text>
+    <text x="210" y="245"><tspan class="ln">11 </tspan><tspan class="v">ROI Measure</tspan><tspan class="o"> =</tspan></text>
+    <text x="210" y="265"><tspan class="ln">12 </tspan><tspan class="o">  </tspan><tspan class="f">CALCULATE</tspan><tspan class="o">(</tspan></text>
+    <text x="210" y="285"><tspan class="ln">13 </tspan><tspan class="o">    </tspan><tspan class="f">SUM</tspan><tspan class="o">(</tspan><tspan class="v">Sales</tspan><tspan class="o">[</tspan><tspan class="p">roi</tspan><tspan class="o">]),</tspan></text>
+    <text x="210" y="305"><tspan class="ln">14 </tspan><tspan class="o">    </tspan><tspan class="f">ALL</tspan><tspan class="o">(</tspan><tspan class="v">Jobs</tspan><tspan class="o">))</tspan></text>
+    <text x="210" y="335"><tspan class="ln">15 </tspan><tspan class="c">-- margin: 22.4%</tspan></text>
+    <text x="210" y="355"><tspan class="ln">16 </tspan><tspan class="c">-- KPI: 12 found</tspan></text>
+    <text x="210" y="375"><tspan class="ln">17 </tspan><tspan class="c">-- model: star_schema</tspan></text>
+    <text x="210" y="395"><tspan class="ln">18 </tspan><tspan class="c">-- refresh: hourly</tspan></text>
+  </g>
+  <use href="#c2" y="400"/>
+</g>
+
+<!-- ============================== COLUMN 3 (INSIGHTS) ============================== -->
+<g opacity="0.42" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="40s" repeatCount="indefinite"/>
+  <g id="c3">
+    <text x="400" y="15"><tspan class="ln">01 </tspan><tspan class="c">-- business_insights</tspan></text>
+    <text x="400" y="35"><tspan class="ln">02 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> salary_trend</tspan><tspan class="o">: </tspan><tspan class="n">up</tspan></text>
+    <text x="400" y="55"><tspan class="ln">03 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> remote_share</tspan><tspan class="o">: </tspan><tspan class="n">42%</tspan></text>
+    <text x="400" y="75"><tspan class="ln">04 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> degree_req</tspan><tspan class="o">: </tspan><tspan class="n">31%</tspan></text>
+    <text x="400" y="95"><tspan class="ln">05 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> top_platform</tspan><tspan class="o">: </tspan><tspan class="s">LinkedIn</tspan></text>
+    <text x="400" y="115"><tspan class="ln">06 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> top_country</tspan><tspan class="o">: </tspan><tspan class="s">US</tspan></text>
+    <text x="400" y="145"><tspan class="ln">07 </tspan><tspan class="c">-- analysis_complete</tspan></text>
+    <text x="400" y="165"><tspan class="ln">08 </tspan><tspan class="c">-- 12 KPIs found</tspan></text>
+    <text x="400" y="185"><tspan class="ln">09 </tspan><tspan class="c">-- 0 errors</tspan></text>
+    <text x="400" y="205"><tspan class="ln">10 </tspan><tspan class="c">-- refresh: hourly</tspan></text>
+    <text x="400" y="235"><tspan class="ln">11 </tspan><tspan class="c">-- dashboard_ready</tspan></text>
+    <text x="400" y="255"><tspan class="ln">12 </tspan><tspan class="c">-- source: api</tspan></text>
+    <text x="400" y="275"><tspan class="ln">13 </tspan><tspan class="c">-- rows: 32,672</tspan></text>
+    <text x="400" y="305"><tspan class="ln">14 </tspan><tspan class="c">-- insight_found</tspan></text>
+    <text x="400" y="325"><tspan class="ln">15 </tspan><tspan class="c">-- confidence: 0.94</tspan></text>
+    <text x="400" y="345"><tspan class="ln">16 </tspan><tspan class="c">-- accuracy: 98.7%</tspan></text>
+    <text x="400" y="365"><tspan class="ln">17 </tspan><tspan class="c">-- direction: up</tspan></text>
+    <text x="400" y="385"><tspan class="ln">18 </tspan><tspan class="c">-- action: deploy</tspan></text>
+  </g>
+  <use href="#c3" y="400"/>
+</g>
+
+<!-- ============================== COLUMN 4 (ADVANCED SQL) ============================== -->
+<g opacity="0.45" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="60s" repeatCount="indefinite"/>
+  <g id="c4">
+    <text x="590" y="15"><tspan class="ln">01 </tspan><tspan class="k">SELECT</tspan><tspan class="f"> AVG</tspan><tspan class="o">(</tspan><tspan class="v">salary</tspan><tspan class="o">)</tspan></text>
+    <text x="590" y="35"><tspan class="ln">02 </tspan><tspan class="k">FROM</tspan><tspan class="v"> jobs</tspan></text>
+    <text x="590" y="55"><tspan class="ln">03 </tspan><tspan class="k">WHERE</tspan><tspan class="v"> title</tspan><tspan class="o"> = </tspan><tspan class="s">'Data Analyst'</tspan></text>
+    <text x="590" y="75"><tspan class="ln">04 </tspan><tspan class="o">  </tspan><tspan class="k">AND</tspan><tspan class="v"> year</tspan><tspan class="o"> = </tspan><tspan class="n">2024</tspan></text>
+    <text x="590" y="95"><tspan class="ln">05 </tspan><tspan class="o">  </tspan><tspan class="k">AND</tspan><tspan class="v"> remote</tspan><tspan class="o"> = </tspan><tspan class="k">TRUE</tspan><tspan class="o">;</tspan></text>
+    <text x="590" y="125"><tspan class="ln">06 </tspan><tspan class="c">-- result: $92,340</tspan></text>
+    <text x="590" y="145"><tspan class="ln">07 </tspan><tspan class="c">-- delta: +8.2%</tspan></text>
+    <text x="590" y="175"><tspan class="ln">08 </tspan><tspan class="k">WITH</tspan><tspan class="v"> ranked </tspan><tspan class="k">AS</tspan><tspan class="o"> (</tspan></text>
+    <text x="590" y="195"><tspan class="ln">09 </tspan><tspan class="o">  </tspan><tspan class="k">SELECT</tspan><tspan class="v"> region</tspan><tspan class="o">,</tspan></text>
+    <text x="590" y="215"><tspan class="ln">10 </tspan><tspan class="o">    </tspan><tspan class="f">SUM</tspan><tspan class="o">(</tspan><tspan class="v">revenue</tspan><tspan class="o">) </tspan><tspan class="k">AS</tspan><tspan class="v"> total</tspan></text>
+    <text x="590" y="235"><tspan class="ln">11 </tspan><tspan class="o">  </tspan><tspan class="k">FROM</tspan><tspan class="v"> sales</tspan></text>
+    <text x="590" y="255"><tspan class="ln">12 </tspan><tspan class="o">  </tspan><tspan class="k">WHERE</tspan><tspan class="v"> quarter</tspan><tspan class="o"> = </tspan><tspan class="s">'Q4'</tspan></text>
+    <text x="590" y="275"><tspan class="ln">13 </tspan><tspan class="o">  </tspan><tspan class="k">GROUP BY</tspan><tspan class="v"> region</tspan></text>
+    <text x="590" y="295"><tspan class="ln">14 </tspan><tspan class="o">)</tspan></text>
+    <text x="590" y="315"><tspan class="ln">15 </tspan><tspan class="k">SELECT</tspan><tspan class="o"> * </tspan><tspan class="k">FROM</tspan><tspan class="v"> ranked</tspan></text>
+    <text x="590" y="335"><tspan class="ln">16 </tspan><tspan class="k">ORDER BY</tspan><tspan class="v"> total</tspan><tspan class="k"> DESC</tspan><tspan class="o">;</tspan></text>
+    <text x="590" y="365"><tspan class="ln">17 </tspan><tspan class="c">-- rows_returned: 12</tspan></text>
+    <text x="590" y="385"><tspan class="ln">18 </tspan><tspan class="c">-- execution: 45ms</tspan></text>
+  </g>
+  <use href="#c4" y="400"/>
+</g>
+
+<!-- ============================== COLUMN 5 (KPI VALUES) ============================== -->
+<g opacity="0.5" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="50s" repeatCount="indefinite"/>
+  <g id="c5">
+    <text x="780" y="15"><tspan class="ln">01 </tspan><tspan class="c">-- kpi_summary</tspan></text>
+    <text x="780" y="35"><tspan class="ln">02 </tspan><tspan class="v">median</tspan><tspan class="o">: </tspan><tspan class="n">$113K</tspan></text>
+    <text x="780" y="55"><tspan class="ln">03 </tspan><tspan class="v">avg</tspan><tspan class="o">: </tspan><tspan class="n">$92,400</tspan></text>
+    <text x="780" y="75"><tspan class="ln">04 </tspan><tspan class="v">growth</tspan><tspan class="o">: </tspan><tspan class="n">+23.4%</tspan></text>
+    <text x="780" y="95"><tspan class="ln">05 </tspan><tspan class="v">yoy</tspan><tspan class="o">: </tspan><tspan class="n">+18.3%</tspan></text>
+    <text x="780" y="115"><tspan class="ln">06 </tspan><tspan class="v">roi</tspan><tspan class="o">: </tspan><tspan class="n">+15.7%</tspan></text>
+    <text x="780" y="135"><tspan class="ln">07 </tspan><tspan class="v">margin</tspan><tspan class="o">: </tspan><tspan class="n">22.4%</tspan></text>
+    <text x="780" y="155"><tspan class="ln">08 </tspan><tspan class="v">ebitda</tspan><tspan class="o">: </tspan><tspan class="n">$2.4M</tspan></text>
+    <text x="780" y="175"><tspan class="ln">09 </tspan><tspan class="v">revenue</tspan><tspan class="o">: </tspan><tspan class="n">$1.2M</tspan></text>
+    <text x="780" y="195"><tspan class="ln">10 </tspan><tspan class="v">profit</tspan><tspan class="o">: </tspan><tspan class="n">$345K</tspan></text>
+    <text x="780" y="215"><tspan class="ln">11 </tspan><tspan class="v">kpi_count</tspan><tspan class="o">: </tspan><tspan class="n">12</tspan></text>
+    <text x="780" y="235"><tspan class="ln">12 </tspan><tspan class="v">confidence</tspan><tspan class="o">: </tspan><tspan class="n">0.94</tspan></text>
+    <text x="780" y="255"><tspan class="ln">13 </tspan><tspan class="v">accuracy</tspan><tspan class="o">: </tspan><tspan class="n">98.7%</tspan></text>
+    <text x="780" y="275"><tspan class="ln">14 </tspan><tspan class="v">rows</tspan><tspan class="o">: </tspan><tspan class="n">32,672</tspan></text>
+    <text x="780" y="295"><tspan class="ln">15 </tspan><tspan class="v">columns</tspan><tspan class="o">: </tspan><tspan class="n">14</tspan></text>
+    <text x="780" y="315"><tspan class="ln">16 </tspan><tspan class="v">nulls</tspan><tspan class="o">: </tspan><tspan class="n">0</tspan></text>
+    <text x="780" y="335"><tspan class="ln">17 </tspan><tspan class="v">duplicates</tspan><tspan class="o">: </tspan><tspan class="n">0</tspan></text>
+    <text x="780" y="355"><tspan class="ln">18 </tspan><tspan class="v">outliers</tspan><tspan class="o">: </tspan><tspan class="n">3</tspan></text>
+    <text x="780" y="375"><tspan class="ln">19 </tspan><tspan class="c">-- analysis_ready</tspan></text>
+    <text x="780" y="395"><tspan class="ln">20 </tspan><tspan class="c">-- deploy: yes</tspan></text>
+  </g>
+  <use href="#c5" y="400"/>
+</g>
+
+<!-- ============================== COLUMN 6 (PIPELINE) ============================== -->
+<g opacity="0.55" font-size="11" font-weight="500">
+  <animateTransform attributeName="transform" type="translate" from="0,42" to="0,-358" dur="48s" repeatCount="indefinite"/>
+  <g id="c6">
+    <text x="970" y="15"><tspan class="ln">01 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> load_data</tspan><tspan class="o">(</tspan><tspan class="v">source</tspan><tspan class="o">)</tspan></text>
+    <text x="970" y="35"><tspan class="ln">02 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> clean_data</tspan><tspan class="o">()</tspan></text>
+    <text x="970" y="55"><tspan class="ln">03 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> transform</tspan><tspan class="o">()</tspan></text>
+    <text x="970" y="75"><tspan class="ln">04 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> model</tspan><tspan class="o">()</tspan></text>
+    <text x="970" y="95"><tspan class="ln">05 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> analyze</tspan><tspan class="o">()</tspan></text>
+    <text x="970" y="115"><tspan class="ln">06 </tspan><tspan class="g">&gt;</tspan><tspan class="f"> visualize</tspan><tspan class="o">()</tspan></text>
+    <text x="970" y="135"><tspan class="ln">07 </tspan><tspan class="g">&gt;</tspan><tspan class="v"> insight</tspan><tspan class="o">!</tspan></text>
+    <text x="970" y="165"><tspan class="ln">08 </tspan><tspan class="c">-- pipeline_ok</tspan></text>
+    <text x="970" y="185"><tspan class="ln">09 </tspan><tspan class="c">-- 0 warnings</tspan></text>
+    <text x="970" y="205"><tspan class="ln">10 </tspan><tspan class="c">-- 0 errors</tspan></text>
+    <text x="970" y="235"><tspan class="ln">11 </tspan><tspan class="k">SELECT</tspan><tspan class="o"> * </tspan><tspan class="k">FROM</tspan><tspan class="v"> kpi</tspan></text>
+    <text x="970" y="255"><tspan class="ln">12 </tspan><tspan class="k">WHERE</tspan><tspan class="v"> status</tspan><tspan class="o"> = </tspan><tspan class="s">'active'</tspan><tspan class="o">;</tspan></text>
+    <text x="970" y="285"><tspan class="ln">13 </tspan><tspan class="c">-- dashboard_ready</tspan></text>
+    <text x="970" y="305"><tspan class="ln">14 </tspan><tspan class="c">-- 12 KPIs</tspan></text>
+    <text x="970" y="325"><tspan class="ln">15 </tspan><tspan class="c">-- 4 reports</tspan></text>
+    <text x="970" y="345"><tspan class="ln">16 </tspan><tspan class="c">-- 2 dashboards</tspan></text>
+    <text x="970" y="365"><tspan class="ln">17 </tspan><tspan class="c">-- delivery: on-time</tspan></text>
+    <text x="970" y="385"><tspan class="ln">18 </tspan><tspan class="c">-- status: shipped</tspan></text>
+  </g>
+  <use href="#c6" y="400"/>
+</g>
+
+<!-- ============================== CENTER FADE ============================== -->
+<ellipse cx="600" cy="220" rx="620" ry="180" fill="url(#cfade)"/>
+
+<!-- ============================== NAME ============================== -->
+<text x="600" y="195" text-anchor="middle" fill="url(#ng)" font-size="52" font-weight="800" letter-spacing="4" filter="url(#nglow)">ABDULRAHMAN MUHAMMAD</text>
+<line x1="300" y1="228" x2="900" y2="228" stroke="url(#lg)" stroke-width="1.4"/>
+
+<!-- ============================== TYPING SUBTITLE ============================== -->
+<g clip-path="url(#cs1)">
+  <text x="410" y="272" fill="#79c0ff" font-size="18" font-weight="500" letter-spacing="8">JUNIOR DATA ANALYST</text>
+</g>
+<g clip-path="url(#cs2)">
+  <text x="385" y="272" fill="#79c0ff" font-size="18" font-weight="500" letter-spacing="8">FINANCIAL INTELLIGENCE</text>
+</g>
+<g clip-path="url(#cs3)">
+  <text x="425" y="272" fill="#79c0ff" font-size="18" font-weight="500" letter-spacing="8">BUSINESS ANALYTICS</text>
+</g>
+
+<!-- Cursors for each typing phrase -->
+<g font-size="18" font-weight="700" fill="#58a6ff">
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.35;0.36;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <text y="272">|<animate attributeName="x" values="410;790;790;410;410" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" dur="0.9s" repeatCount="indefinite"/></text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.35;0.36;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    <text y="272">|<animate attributeName="x" values="385;815;815;385;385" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" dur="0.9s" repeatCount="indefinite"/></text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.35;0.36;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    <text y="272">|<animate attributeName="x" values="425;775;775;425;425" keyTimes="0;0.1667;0.3333;0.35;1" dur="12s" begin="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0;1" dur="0.9s" repeatCount="indefinite"/></text>
+  </g>
+</g>
+
+<!-- ============================== STATIC SKILLS ROW ============================== -->
+<text x="600" y="315" text-anchor="middle" fill="#8b949e" font-size="13" font-weight="400" letter-spacing="2.5">Excel  ·  Power BI  ·  SQL  ·  Financial Analysis</text>
+
+<!-- ============================== TERMINAL BAR (drawn on top) ============================== -->
+<rect width="1200" height="42" fill="#161b22"/>
+<line x1="0" y1="42" x2="1200" y2="42" stroke="#30363d" stroke-width="1"/>
+<text x="20" y="26" fill="#8b949e" font-size="12.5" font-weight="500" letter-spacing="0.5">~/abdulrahman — analytics.sql</text>
+<text x="1180" y="26" text-anchor="end" fill="#6a9955" font-size="11.5" font-weight="500" letter-spacing="0.5">● connected</text>
+
+</svg>
