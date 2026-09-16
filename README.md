@@ -1,17 +1,15 @@
-# ABDULRAHMAN MUHAMMAD
+<div align="center">
 
-### Junior Data Analyst
+<img src="assets/hero/hero.svg" alt="Abdulrahman Muhammad — Data Analyst" width="100%">
 
-*Excel · Power BI · SQL · Financial Analysis*
+<br>
 
-Turning financial data into business insights — with an accounting foundation that connects numbers to real-world decisions.
+<a href="https://abdodatanerd.figma.site/"><img src="https://img.shields.io/badge/▶_View_My_Work-0d47a1?style=for-the-badge" alt="View My Work"></a>
+<a href="https://www.linkedin.com/in/abdulrahman-m-2003march"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/abdulrahman0328"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-**1+ Years Experience · 5+ Projects · 10+ Clients**
-
-<a href="https://abdodatanerd.figma.site/"><img src="https://img.shields.io/badge/Portfolio-View-0d47a1?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/abdulrahman-m-2003march"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://github.com/abdulrahman0328"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge" alt="GitHub"></a>
-<a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d47a1?style=for-the-badge" alt="Email"></a>
+</div>
 
 ---
 
@@ -43,6 +41,8 @@ My accounting foundation supports accuracy, structured reporting, financial inte
 
 ## Skills
 
+A compact skill matrix keeps the main profile focused. Click a skill to explore its dedicated page.
+
 ### Core
 
 <table>
@@ -51,7 +51,7 @@ My accounting foundation supports accuracy, structured reporting, financial inte
 
 <a href="skills/excel.md"><img src="https://img.shields.io/badge/Excel-0d47a1?style=for-the-badge" alt="Excel"></a>
 
-**· Data Cleaning · Analysis · Dashboards**
+**Analysis · Dashboards · Automation**
 
 Advanced formulas · Pivot Tables · Power Query · Data Validation · Dashboard design
 
@@ -88,7 +88,7 @@ KPI design · Visual hierarchy · Decision-oriented reporting
 
 **Statements · KPIs · Performance**
 
-Financial statements · Revenue & expense analysis · Business KPIs · Accounting foundation · financial interpretation, and business performance analysis
+Financial statements · Revenue & expense analysis · Business KPIs
 
 <sub>Core</sub>
 
@@ -106,7 +106,7 @@ Financial statements · Revenue & expense analysis · Business KPIs · Accountin
 
 **Querying · Joins · Analytics**
 
-SELECT · JOINs · Aggregations · Window functions · CTEs 
+SELECT · JOINs · Aggregations · Window functions · CTEs
 
 <sub>Building</sub>
 
