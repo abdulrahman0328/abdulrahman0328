@@ -4,9 +4,8 @@
 
 <br>
 
-<a href="https://abdodatanerd.figma.site/"><img src="https://img.shields.io/badge/▶_View_My_Work-0d47a1?style=for-the-badge" alt="View My Work"></a>
+<a href="https://abdodatanerd.figma.site/"><img src="https://img.shields.io/badge/▶_View_My_Work-0d47a1?style=for-the-badge" alt="View My Portfolio"></a>
 <a href="https://www.linkedin.com/in/abdulrahman-m-2003march"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/abdulrahman0328"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:abdulrahmanmuhammad0328@gmail.com"><img src="https://img.shields.io/badge/Email-0d47a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
