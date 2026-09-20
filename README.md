@@ -57,11 +57,19 @@ My technical expertise is strongly backed by a **B.Com. in Accounting** *(**Rank
 <a href="skills/financial-analysis.md"><img src="assets/financial.svg?v=4" alt="Financial Data Analysis" title="Financial Data Analysis & Insights" height="60"></a>
 <br><br><br>
 
-**🚀 Learning Roadmap & AI Integration**<br><br>
-<img src="assets/python.svg" alt="🔒 Python" title="Python (Planned Skill: Part of my upcoming roadmap)" height="60">&nbsp;&nbsp;
-<img src="assets/tableau.svg" alt="🔒 Tableau" title="Tableau (Planned Skill: Part of my upcoming roadmap)" height="60">&nbsp;&nbsp;
-<img src="assets/ai.svg" alt="🔒 AI Tools for Data" title="AI Tools for Data (Planned Skill: Part of my upcoming roadmap)" height="60">
+<b>🚀 Learning Roadmap & AI Integration</b><br><br>
 
+<a href="#learning-roadmap--ai-integration" title="Python (Planned Skill: Part of my upcoming roadmap)">
+  <img src="assets/python.svg" alt="🔒 Python" height="60">
+</a>&nbsp;&nbsp;
+
+<a href="#learning-roadmap--ai-integration" title="Tableau (Planned Skill: Part of my upcoming roadmap)">
+  <img src="assets/tableau.svg" alt="🔒 Tableau" height="60">
+</a>&nbsp;&nbsp;
+
+<a href="#learning-roadmap--ai-integration" title="AI Tools for Data (Planned Skill: Part of my upcoming roadmap)">
+  <img src="assets/ai.svg" alt="🔒 AI Tools for Data" height="60">
+</a>
 </div>
 
 ---
