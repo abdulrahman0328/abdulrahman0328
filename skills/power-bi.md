@@ -8,47 +8,27 @@
 
 # Microsoft Power BI
 
-**Role in my workflow:** Data Transformation → Modeling → DAX → Reporting
-
-Power BI is a major part of my transition toward **Business Intelligence and professional data reporting**.
-
-## Learning Path
-
-`Power Query` → `Data Modeling` → `DAX` → `Measures` → `KPIs` → `Interactive Reports`
-
-## What I Practice
-
-- Power Query
-- Data Transformation
-- Data Modeling
-- DAX
-- Measures
-- KPIs
-- Interactive Reports
-- Drill-through
-- Business Questions
-- Dashboard Design
-
-## Main Project
-
-### Data Job Market Dashboard
-
-A Power BI project exploring:
-
-- Job demand
-- Median salary
-- Job trends
-- Employment types
-- Job platforms
-- Remote work
-- Degree requirements
-- Global job-market patterns
-
-**Tools:** Power BI · DAX · Power Query · Excel
-
-## Key Principle
-
 > **A dashboard should answer a business question, not simply display numbers.**
+
+## What I Can Do
+
+My focus in Power BI is transforming scattered data into structured, interactive reporting tools that drive Business Intelligence:
+
+*   **Data Transformation (ETL):** Extracting, cleaning, and shaping raw data using advanced **Power Query**.
+*   **Data Modeling:** Designing optimized relational models (Star Schema) to ensure accurate cross-filtering and high analytical performance.
+*   **Advanced DAX:** Writing complex measures, calculating dynamic KPIs, and applying time-intelligence functions to solve specific business logic.
+*   **Interactive Reporting:** Designing user-centric dashboards utilizing drill-throughs, custom visuals, and dynamic filtering to uncover actionable insights.
+
+## Featured Projects
+
+1.  **Data Job Market Dashboard** 
+    *An end-to-end BI project built to clarify scattered job market data. It analyzes job demand, median salaries, global remote work trends, and degree requirements using Power Query, DAX, and interactive visuals.*
+
+## How I Learned
+
+Power BI is a major part of my transition into **Business Intelligence**. I built my foundation by studying data modeling principles and DAX fundamentals, applying my financial and business background to ensure reports deliver real commercial value.
+
+*   **Hands-on Application:** **+120 Hours** of dedicated practice—building star schemas, debugging DAX measures, and designing business-focused dashboards.
 
 ---
 
